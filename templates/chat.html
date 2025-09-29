@@ -3,121 +3,299 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AI聊天助手</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <title>Gemini風格 AI助手</title>
+    <link href="https://fonts.googleapis.com/css2?family=Google+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="{{ url_for('static', filename='style.css') }}" rel="stylesheet">
 </head>
 <body>
-    <div class="container-fluid h-100">
-        <div class="row h-100">
-            <!-- 側邊欄 -->
-            <div class="col-md-3 col-lg-2 sidebar">
-                <div class="sidebar-header">
-                    <h4><i class="fas fa-robot me-2"></i>AI助手</h4>
-                </div>
-                
-                <div class="domain-selector">
-                    <h6>選擇AI領域</h6>
-                    <div class="list-group">
-                        <button class="list-group-item list-group-item-action domain-btn active" data-domain="dialogue">
-                            <i class="fas fa-comments me-2"></i>智能對話
-                        </button>
-                        <button class="list-group-item list-group-item-action domain-btn" data-domain="math">
-                            <i class="fas fa-calculator me-2"></i>數學計算
-                        </button>
-                        <button class="list-group-item list-group-item-action domain-btn" data-domain="programming">
-                            <i class="fas fa-code me-2"></i>程式設計
-                        </button>
-                        <button class="list-group-item list-group-item-action domain-btn" data-domain="writing">
-                            <i class="fas fa-pen me-2"></i>創意寫作
-                        </button>
-                        <button class="list-group-item list-group-item-action domain-btn" data-domain="mun">
-                            <i class="fas fa-globe me-2"></i>模擬聯合國
-                        </button>
-                    </div>
-                </div>
-                
-                <div class="mt-4">
-                    <button class="btn btn-outline-light btn-sm w-100" onclick="clearChat()">
-                        <i class="fas fa-trash me-2"></i>清除對話
-                    </button>
+    <div class="app-container">
+        <!-- 頂部導航欄 -->
+        <header class="top-header">
+            <div class="header-left">
+                <button class="menu-toggle" onclick="toggleSidebar()">
+                    <span class="material-icons">menu</span>
+                </button>
+                <div class="logo">
+                    <svg width="28" height="28">
+                        <use href="/static/gemini-icons.svg#gemini-logo"></use>
+                    </svg>
+                    <span class="logo-text">Gemini AI</span>
                 </div>
             </div>
-            
-            <!-- 主聊天區域 -->
-            <div class="col-md-9 col-lg-10 main-content">
-                <div class="chat-header">
-                    <h5 id="current-domain">智能對話助手</h5>
-                    <small class="text-muted">選擇左側的AI領域開始對話</small>
+            <div class="header-right">
+                <button class="new-chat-btn" onclick="startNewChat()">
+                    <svg width="16" height="16">
+                        <use href="/static/gemini-icons.svg#new-chat-icon"></use>
+                    </svg>
+                    <span>新對話</span>
+                </button>
+                <div class="chat-actions">
+                    <button class="action-btn" onclick="exportChat()" title="匯出聊天記錄">
+                        <svg width="16" height="16">
+                            <use href="/static/gemini-icons.svg#export-icon"></use>
+                        </svg>
+                    </button>
+                    <button class="action-btn" onclick="importChat()" title="匯入聊天記錄">
+                        <svg width="16" height="16">
+                            <use href="/static/gemini-icons.svg#import-icon"></use>
+                        </svg>
+                    </button>
+                    <input type="file" id="import-file" accept=".json" style="display: none;" onchange="handleImportFile(event)">
                 </div>
-                
-                <div class="chat-container" id="chat-container">
-                    <div class="welcome-message">
-                        <div class="text-center">
-                            <i class="fas fa-robot fa-3x text-primary mb-3"></i>
-                            <h4>歡迎使用AI聊天助手</h4>
-                            <p class="text-muted">選擇您需要的AI領域，然後開始對話吧！</p>
+            </div>
+        </header>
+
+        <!-- 側邊欄 -->
+        <aside class="sidebar" id="sidebar">
+            <div class="sidebar-content">
+                <!-- Gem選擇器 -->
+                <div class="gem-selector">
+                    <h3 class="gem-title">選擇 AI Gem</h3>
+                    <div class="gem-grid">
+                        <div class="gem-card active" data-domain="dialogue" onclick="selectGem(this, 'dialogue')">
+                            <svg class="gem-icon" width="24" height="24">
+                                <use href="/static/gemini-icons.svg#dialogue-icon"></use>
+                            </svg>
+                            <div class="gem-info">
+                                <h4>智能對話</h4>
+                                <p>日常對話與問答</p>
+                            </div>
+                        </div>
+                        <div class="gem-card" data-domain="math" onclick="selectGem(this, 'math')">
+                            <svg class="gem-icon" width="24" height="24">
+                                <use href="/static/gemini-icons.svg#math-icon"></use>
+                            </svg>
+                            <div class="gem-info">
+                                <h4>數學計算</h4>
+                                <p>數學問題解答</p>
+                            </div>
+                        </div>
+                        <div class="gem-card" data-domain="programming" onclick="selectGem(this, 'programming')">
+                            <svg class="gem-icon" width="24" height="24">
+                                <use href="/static/gemini-icons.svg#programming-icon"></use>
+                            </svg>
+                            <div class="gem-info">
+                                <h4>程式設計</h4>
+                                <p>編程協助與除錯</p>
+                            </div>
+                        </div>
+                        <div class="gem-card" data-domain="writing" onclick="selectGem(this, 'writing')">
+                            <svg class="gem-icon" width="24" height="24">
+                                <use href="/static/gemini-icons.svg#writing-icon"></use>
+                            </svg>
+                            <div class="gem-info">
+                                <h4>創意寫作</h4>
+                                <p>文章創作與編輯</p>
+                            </div>
+                        </div>
+                        <div class="gem-card" data-domain="mun" onclick="selectGem(this, 'mun')">
+                            <svg class="gem-icon" width="24" height="24">
+                                <use href="/static/gemini-icons.svg#mun-icon"></use>
+                            </svg>
+                            <div class="gem-info">
+                                <h4>模擬聯合國</h4>
+                                <p>國際事務討論</p>
+                            </div>
                         </div>
                     </div>
                 </div>
-                
-                <div class="chat-input-container">
-                    <div class="input-group">
-                        <input type="text" class="form-control" id="message-input" 
-                               placeholder="輸入您的消息..." onkeypress="handleKeyPress(event)">
-                        <button class="btn btn-primary" type="button" onclick="sendMessage()">
-                            <i class="fas fa-paper-plane"></i>
-                        </button>
+
+                <!-- 聊天歷史 -->
+                <div class="chat-history">
+                    <h3 class="history-title">最近對話</h3>
+                    <div class="history-list" id="chat-history">
+                        <!-- 動態生成聊天歷史 -->
                     </div>
                 </div>
             </div>
-        </div>
+        </aside>
+            
+        <!-- 主聊天區域 -->
+        <main class="main-content" id="main-content">
+            <div class="chat-container">
+                <!-- 歡迎畫面 -->
+                <div class="welcome-screen" id="welcome-screen">
+                    <div class="welcome-content">
+                        <div class="gemini-logo">
+                            <span class="material-icons">auto_awesome</span>
+                        </div>
+                        <h1>Hello, 我是 Gemini AI</h1>
+                        <p>選擇一個 AI Gem 開始對話，或直接輸入您的問題</p>
+                        
+                        <div class="suggestion-cards">
+                            <div class="suggestion-card" onclick="sendSuggestion('幫我解釋量子物理的基本概念')">
+                                <span class="material-icons">science</span>
+                                <span>解釋科學概念</span>
+                            </div>
+                            <div class="suggestion-card" onclick="sendSuggestion('寫一個Python排序算法')">
+                                <span class="material-icons">code</span>
+                                <span>編寫程式碼</span>
+                            </div>
+                            <div class="suggestion-card" onclick="sendSuggestion('幫我寫一首關於春天的詩')">
+                                <span class="material-icons">edit</span>
+                                <span>創意寫作</span>
+                            </div>
+                            <div class="suggestion-card" onclick="sendSuggestion('計算複利公式')">
+                                <span class="material-icons">calculate</span>
+                                <span>數學計算</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 聊天消息區域 -->
+                <div class="messages-container" id="messages-container" style="display: none;">
+                    <div class="messages-list" id="messages-list">
+                        <!-- 動態生成消息 -->
+                    </div>
+                </div>
+            </div>
+
+            <!-- 輸入區域 -->
+            <div class="input-container">
+                <div class="input-wrapper">
+                    <div class="input-box">
+                        <textarea 
+                            id="message-input" 
+                            placeholder="輸入訊息給 Gemini..." 
+                            rows="1"
+                            onkeydown="handleKeyDown(event)"
+                            oninput="adjustTextareaHeight(this)"
+                        ></textarea>
+                        <button class="send-btn" id="send-btn" onclick="sendMessage()" disabled>
+                            <span class="material-icons">send</span>
+                        </button>
+                    </div>
+                    <div class="input-actions">
+                        <button class="action-btn" onclick="attachFile()" title="附加檔案">
+                            <span class="material-icons">attach_file</span>
+                        </button>
+                        <button class="action-btn" onclick="voiceInput()" title="語音輸入">
+                            <span class="material-icons">mic</span>
+                        </button>
+                    </div>
+                </div>
+                <div class="input-footer">
+                    <p>Gemini 可能會顯示不準確的資訊，包括關於人物、地點或事實的資訊。</p>
+                </div>
+            </div>
+        </main>
     </div>
 
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
     <script>
         let currentDomain = 'dialogue';
-        
-        // 域選擇處理
-        document.querySelectorAll('.domain-btn').forEach(btn => {
-            btn.addEventListener('click', function() {
-                document.querySelectorAll('.domain-btn').forEach(b => b.classList.remove('active'));
-                this.classList.add('active');
-                currentDomain = this.dataset.domain;
-                updateDomainHeader();
-            });
+        let currentChatId = null;
+        let chatHistory = JSON.parse(localStorage.getItem('chatHistory') || '[]');
+        let currentMessages = [];
+
+        // 初始化
+        document.addEventListener('DOMContentLoaded', function() {
+            updateChatHistory();
+            setupInputHandlers();
         });
-        
-        function updateDomainHeader() {
+
+        // 設置輸入處理器
+        function setupInputHandlers() {
+            const input = document.getElementById('message-input');
+            const sendBtn = document.getElementById('send-btn');
+            
+            input.addEventListener('input', function() {
+                sendBtn.disabled = !this.value.trim();
+            });
+        }
+
+        // 調整文本區域高度
+        function adjustTextareaHeight(textarea) {
+            textarea.style.height = 'auto';
+            textarea.style.height = Math.min(textarea.scrollHeight, 120) + 'px';
+        }
+
+        // 切換側邊欄
+        function toggleSidebar() {
+            const sidebar = document.getElementById('sidebar');
+            sidebar.classList.toggle('collapsed');
+        }
+
+        // 選擇Gem
+        function selectGem(element, domain) {
+            document.querySelectorAll('.gem-card').forEach(card => {
+                card.classList.remove('active');
+            });
+            element.classList.add('active');
+            currentDomain = domain;
+            
+            // 更新歡迎畫面
+            updateWelcomeScreen();
+        }
+
+        // 更新歡迎畫面
+        function updateWelcomeScreen() {
             const domainNames = {
                 'dialogue': '智能對話助手',
-                'math': '數學計算助手',
+                'math': '數學計算助手', 
                 'programming': '程式設計助手',
                 'writing': '創意寫作助手',
                 'mun': '模擬聯合國助手'
             };
-            document.getElementById('current-domain').textContent = domainNames[currentDomain];
+            
+            const welcomeScreen = document.getElementById('welcome-screen');
+            const title = welcomeScreen.querySelector('h1');
+            title.textContent = `Hello, 我是 ${domainNames[currentDomain]}`;
         }
-        
-        function handleKeyPress(event) {
-            if (event.key === 'Enter') {
-                sendMessage();
+
+        // 開始新對話
+        function startNewChat() {
+            currentChatId = null;
+            currentMessages = [];
+            
+            // 顯示歡迎畫面
+            document.getElementById('welcome-screen').style.display = 'block';
+            document.getElementById('messages-container').style.display = 'none';
+            
+            // 清空輸入
+            document.getElementById('message-input').value = '';
+            document.getElementById('send-btn').disabled = true;
+            
+            updateChatHistory();
+        }
+
+        // 發送建議消息
+        function sendSuggestion(message) {
+            document.getElementById('message-input').value = message;
+            document.getElementById('send-btn').disabled = false;
+            sendMessage();
+        }
+
+        // 處理鍵盤事件
+        function handleKeyDown(event) {
+            if (event.key === 'Enter' && !event.shiftKey) {
+                event.preventDefault();
+                if (!document.getElementById('send-btn').disabled) {
+                    sendMessage();
+                }
             }
         }
         
+        // 發送消息
         function sendMessage() {
             const input = document.getElementById('message-input');
             const message = input.value.trim();
             
             if (!message) return;
             
-            // 顯示用戶消息
+            // 隱藏歡迎畫面，顯示聊天區域
+            document.getElementById('welcome-screen').style.display = 'none';
+            document.getElementById('messages-container').style.display = 'block';
+            
+            // 添加用戶消息
             addMessage(message, 'user');
             input.value = '';
+            document.getElementById('send-btn').disabled = true;
+            adjustTextareaHeight(input);
             
-            // 顯示載入中
-            const loadingId = addMessage('正在思考中...', 'ai', true);
+            // 添加AI思考中消息
+            const thinkingId = addMessage('', 'ai', true);
             
             // 發送到後端
             fetch('/api/chat', {
@@ -132,64 +310,411 @@
             })
             .then(response => response.json())
             .then(data => {
-                // 移除載入消息
-                document.getElementById(loadingId).remove();
+                // 移除思考中消息
+                document.getElementById(thinkingId).remove();
                 
                 if (data.success) {
                     addMessage(data.response, 'ai');
+                    
+                    // 保存到聊天歷史
+                    saveChatMessage(message, data.response);
                 } else {
                     addMessage('抱歉，發生了錯誤：' + data.error, 'ai');
                 }
             })
             .catch(error => {
-                document.getElementById(loadingId).remove();
+                document.getElementById(thinkingId).remove();
                 addMessage('網絡錯誤，請稍後再試', 'ai');
             });
         }
-        
-        function addMessage(content, sender, isLoading = false) {
-            const container = document.getElementById('chat-container');
-            const welcomeMsg = container.querySelector('.welcome-message');
-            if (welcomeMsg) {
-                welcomeMsg.remove();
-            }
-            
+
+        // 添加消息到聊天
+        function addMessage(content, sender, isThinking = false) {
             const messageId = 'msg-' + Date.now() + '-' + Math.random().toString(36).substr(2, 9);
+            const messagesList = document.getElementById('messages-list');
+            
             const messageDiv = document.createElement('div');
             messageDiv.className = `message ${sender}-message`;
             messageDiv.id = messageId;
             
-            const icon = sender === 'user' ? 'fa-user' : 'fa-robot';
-            const iconClass = sender === 'user' ? 'text-primary' : 'text-success';
+            if (sender === 'user') {
+                messageDiv.innerHTML = `
+                    <div class="message-content user-content">
+                        <div class="message-text">${escapeHtml(content)}</div>
+                    </div>
+                    <div class="message-avatar user-avatar">
+                        <span class="material-icons">person</span>
+                    </div>
+                `;
+            } else {
+                if (isThinking) {
+                    messageDiv.innerHTML = `
+                        <div class="message-avatar ai-avatar">
+                            <span class="material-icons">auto_awesome</span>
+                        </div>
+                        <div class="message-content ai-content">
+                            <div class="thinking-animation">
+                                <div class="thinking-dots">
+                                    <span></span>
+                                    <span></span>
+                                    <span></span>
+                                </div>
+                                <div class="thinking-text">Gemini 正在思考...</div>
+                            </div>
+                        </div>
+                    `;
+                } else {
+                    messageDiv.innerHTML = `
+                        <div class="message-avatar ai-avatar">
+                            <span class="material-icons">auto_awesome</span>
+                        </div>
+                        <div class="message-content ai-content">
+                            <div class="message-text">${formatAIResponse(content)}</div>
+                            <div class="message-actions">
+                                <button class="action-btn" onclick="copyMessage('${messageId}')" title="複製">
+                                    <span class="material-icons">content_copy</span>
+                                </button>
+                                <button class="action-btn" onclick="regenerateResponse('${messageId}')" title="重新生成">
+                                    <span class="material-icons">refresh</span>
+                                </button>
+                            </div>
+                        </div>
+                    `;
+                }
+            }
             
-            messageDiv.innerHTML = `
-                <div class="message-header">
-                    <i class="fas ${icon} ${iconClass}"></i>
-                    <span>${sender === 'user' ? '您' : 'AI助手'}</span>
-                    <small class="text-muted">${new Date().toLocaleTimeString()}</small>
-                </div>
-                <div class="message-content">
-                    ${isLoading ? '<i class="fas fa-spinner fa-spin me-2"></i>' : ''}${content}
-                </div>
-            `;
+            messagesList.appendChild(messageDiv);
+            messagesList.scrollTop = messagesList.scrollHeight;
             
-            container.appendChild(messageDiv);
-            container.scrollTop = container.scrollHeight;
+            // 添加到當前消息列表
+            if (!isThinking) {
+                currentMessages.push({
+                    content: content,
+                    sender: sender,
+                    timestamp: new Date().toISOString()
+                });
+            }
             
             return messageId;
         }
-        
-        function clearChat() {
-            const container = document.getElementById('chat-container');
-            container.innerHTML = `
-                <div class="welcome-message">
-                    <div class="text-center">
-                        <i class="fas fa-robot fa-3x text-primary mb-3"></i>
-                        <h4>歡迎使用AI聊天助手</h4>
-                        <p class="text-muted">選擇您需要的AI領域，然後開始對話吧！</p>
+
+        // 格式化AI回應
+        function formatAIResponse(content) {
+            // 處理代碼塊
+            content = content.replace(/```(\w+)?\n([\s\S]*?)```/g, function(match, lang, code) {
+                return `<div class="code-block">
+                    <div class="code-header">
+                        <span class="code-lang">${lang || 'code'}</span>
+                        <button class="copy-code-btn" onclick="copyCode(this)">
+                            <span class="material-icons">content_copy</span>
+                        </button>
                     </div>
-                </div>
+                    <pre><code>${escapeHtml(code.trim())}</code></pre>
+                </div>`;
+            });
+            
+            // 處理行內代碼
+            content = content.replace(/`([^`]+)`/g, '<code class="inline-code">$1</code>');
+            
+            // 處理換行
+            content = content.replace(/\n/g, '<br>');
+            
+            return content;
+        }
+
+        // HTML轉義
+        function escapeHtml(text) {
+            const div = document.createElement('div');
+            div.textContent = text;
+            return div.innerHTML;
+        }
+
+        // 保存聊天消息到歷史
+        function saveChatMessage(userMessage, aiResponse) {
+            if (!currentChatId) {
+                currentChatId = 'chat-' + Date.now();
+                const chatTitle = userMessage.length > 30 ? userMessage.substring(0, 30) + '...' : userMessage;
+                
+                chatHistory.unshift({
+                    id: currentChatId,
+                    title: chatTitle,
+                    domain: currentDomain,
+                    timestamp: new Date().toISOString(),
+                    messages: []
+                });
+            }
+            
+            const chat = chatHistory.find(c => c.id === currentChatId);
+            if (chat) {
+                chat.messages.push(
+                    { content: userMessage, sender: 'user', timestamp: new Date().toISOString() },
+                    { content: aiResponse, sender: 'ai', timestamp: new Date().toISOString() }
+                );
+            }
+            
+            localStorage.setItem('chatHistory', JSON.stringify(chatHistory));
+            updateChatHistory();
+        }
+
+        // 更新聊天歷史顯示
+        function updateChatHistory() {
+            const historyList = document.getElementById('chat-history');
+            historyList.innerHTML = '';
+            
+            chatHistory.slice(0, 10).forEach(chat => {
+                const historyItem = document.createElement('div');
+                historyItem.className = 'history-item';
+                historyItem.innerHTML = `
+                    <div class="history-content" onclick="loadChat('${chat.id}')">
+                        <div class="history-title">${escapeHtml(chat.title)}</div>
+                        <div class="history-meta">
+                            <span class="history-domain">${getDomainName(chat.domain)}</span>
+                            <span class="history-time">${formatTime(chat.timestamp)}</span>
+                        </div>
+                    </div>
+                    <button class="delete-chat-btn" onclick="deleteChat('${chat.id}')" title="刪除對話">
+                        <span class="material-icons">delete</span>
+                    </button>
+                `;
+                historyList.appendChild(historyItem);
+            });
+        }
+
+        // 載入聊天記錄
+        function loadChat(chatId) {
+            const chat = chatHistory.find(c => c.id === chatId);
+            if (!chat) return;
+            
+            currentChatId = chatId;
+            currentMessages = [...chat.messages];
+            currentDomain = chat.domain;
+            
+            // 更新Gem選擇
+            document.querySelectorAll('.gem-card').forEach(card => {
+                card.classList.remove('active');
+                if (card.dataset.domain === currentDomain) {
+                    card.classList.add('active');
+                }
+            });
+            
+            // 隱藏歡迎畫面，顯示聊天
+            document.getElementById('welcome-screen').style.display = 'none';
+            document.getElementById('messages-container').style.display = 'block';
+            
+            // 重新渲染消息
+            const messagesList = document.getElementById('messages-list');
+            messagesList.innerHTML = '';
+            
+            chat.messages.forEach(msg => {
+                addMessage(msg.content, msg.sender);
+            });
+        }
+
+        // 刪除聊天記錄
+        function deleteChat(chatId) {
+            if (confirm('確定要刪除這個對話嗎？')) {
+                chatHistory = chatHistory.filter(c => c.id !== chatId);
+                localStorage.setItem('chatHistory', JSON.stringify(chatHistory));
+                updateChatHistory();
+                
+                if (currentChatId === chatId) {
+                    startNewChat();
+                }
+            }
+        }
+
+        // 匯出聊天記錄
+        function exportChat() {
+            const chatData = {
+                chatHistory: chatHistory,
+                currentDomain: currentDomain,
+                exportDate: new Date().toISOString(),
+                version: "1.0"
+            };
+            
+            const dataStr = JSON.stringify(chatData, null, 2);
+            const dataBlob = new Blob([dataStr], {type: 'application/json'});
+            
+            const link = document.createElement('a');
+            link.href = URL.createObjectURL(dataBlob);
+            link.download = `chat-history-${new Date().toISOString().split('T')[0]}.json`;
+            document.body.appendChild(link);
+            link.click();
+            document.body.removeChild(link);
+            
+            showToast('聊天記錄已匯出', 'success');
+        }
+
+        // 匯入聊天記錄
+        function importChat() {
+            const fileInput = document.getElementById('import-file');
+            fileInput.click();
+        }
+
+        // 處理匯入檔案
+        function handleImportFile(event) {
+            const file = event.target.files[0];
+            if (!file) return;
+
+            const reader = new FileReader();
+            reader.onload = function(e) {
+                try {
+                    const importedData = JSON.parse(e.target.result);
+                    
+                    // 驗證匯入的資料格式
+                    if (!importedData.chatHistory || !Array.isArray(importedData.chatHistory)) {
+                        throw new Error('無效的聊天記錄格式');
+                    }
+                    
+                    // 確認是否要覆蓋現有聊天記錄
+                    if (chatHistory.length > 0) {
+                        if (!confirm('匯入將覆蓋現有的聊天記錄，是否繼續？')) {
+                            return;
+                        }
+                    }
+                    
+                    // 匯入聊天記錄
+                    chatHistory = importedData.chatHistory;
+                    if (importedData.currentDomain) {
+                        currentDomain = importedData.currentDomain;
+                        selectGem(document.querySelector(`[data-domain="${currentDomain}"]`), currentDomain);
+                    }
+                    
+                    // 重新渲染聊天介面
+                    renderChatHistory();
+                    localStorage.setItem('chatHistory', JSON.stringify(chatHistory));
+                    
+                    // 隱藏歡迎畫面，顯示聊天區域
+                    document.getElementById('welcome-screen').style.display = 'none';
+                    document.getElementById('messages-container').style.display = 'block';
+                    
+                    showToast(`成功匯入 ${chatHistory.length} 條聊天記錄`, 'success');
+                    
+                } catch (error) {
+                    console.error('匯入失敗:', error);
+                    showToast('匯入失敗：' + error.message, 'error');
+                }
+            };
+            
+            reader.readAsText(file);
+            // 清空檔案輸入，允許重複匯入同一檔案
+            event.target.value = '';
+        }
+
+        // 渲染聊天記錄
+        function renderChatHistory() {
+            const messagesList = document.getElementById('messages-list');
+            messagesList.innerHTML = '';
+            
+            chatHistory.forEach(chat => {
+                chat.messages.forEach(message => {
+                    addMessage(message.content, message.sender);
+                });
+            });
+            
+            // 滾動到底部
+            messagesList.scrollTop = messagesList.scrollHeight;
+            updateChatHistory();
+        }
+
+        // 輔助函數
+        function getDomainName(domain) {
+            const names = {
+                'dialogue': '對話',
+                'math': '數學',
+                'programming': '程式',
+                'writing': '寫作',
+                'mun': 'MUN'
+            };
+            return names[domain] || domain;
+        }
+
+        function formatTime(timestamp) {
+            const date = new Date(timestamp);
+            const now = new Date();
+            const diff = now - date;
+            
+            if (diff < 60000) return '剛剛';
+            if (diff < 3600000) return Math.floor(diff / 60000) + '分鐘前';
+            if (diff < 86400000) return Math.floor(diff / 3600000) + '小時前';
+            return Math.floor(diff / 86400000) + '天前';
+        }
+
+        function copyMessage(messageId) {
+            const messageElement = document.getElementById(messageId);
+            const textElement = messageElement.querySelector('.message-text');
+            const text = textElement.textContent || textElement.innerText;
+            
+            navigator.clipboard.writeText(text).then(() => {
+                // 顯示複製成功提示
+                showToast('已複製到剪貼板');
+            });
+        }
+
+        function copyCode(button) {
+            const codeBlock = button.closest('.code-block');
+            const code = codeBlock.querySelector('code').textContent;
+            
+            navigator.clipboard.writeText(code).then(() => {
+                showToast('代碼已複製');
+            });
+        }
+
+        // 顯示提示訊息
+        function showToast(message, type = 'info') {
+            // 移除現有的toast
+            const existingToast = document.querySelector('.toast');
+            if (existingToast) {
+                existingToast.remove();
+            }
+            
+            const toast = document.createElement('div');
+            toast.className = `toast toast-${type}`;
+            toast.textContent = message;
+            
+            const typeColors = {
+                'info': '#333',
+                'success': '#4caf50',
+                'error': '#f44336'
+            };
+            
+            toast.style.cssText = `
+                position: fixed;
+                bottom: 20px;
+                left: 50%;
+                transform: translateX(-50%);
+                background: ${typeColors[type] || typeColors.info};
+                color: white;
+                padding: 12px 24px;
+                border-radius: 8px;
+                z-index: 1000;
+                opacity: 0;
+                transition: opacity 0.3s;
             `;
+            
+            document.body.appendChild(toast);
+            
+            // 顯示動畫
+            setTimeout(() => toast.style.opacity = '1', 100);
+            
+            // 自動隱藏
+            setTimeout(() => {
+                toast.style.opacity = '0';
+                setTimeout(() => toast.remove(), 300);
+            }, 3000);
+        }
+
+        // 佔位符函數
+        function attachFile() {
+            showToast('檔案附加功能開發中...', 'info');
+        }
+
+        function voiceInput() {
+            showToast('語音輸入功能開發中...', 'info');
+        }
+
+        function regenerateResponse(messageId) {
+            showToast('重新生成功能開發中...', 'info');
         }
     </script>
 </body>

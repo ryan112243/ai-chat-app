@@ -1,0 +1,6002 @@
+[
+  {
+    "domain": "programming",
+    "user_input": "為什麼我的程式不工作？{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023576",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 0
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "如何用C++實現搜尋元素？",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023609",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 1
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "修復這個錯誤：{code}",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023614",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 2
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "為什麼我的程式不工作？{code}",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023619",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 3
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "這段代碼有什麼問題？{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023622",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 4
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "C++中如何反轉字串？",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023627",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 5
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "如何用Go實現生成斐波那契數列？",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023632",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 6
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "為什麼我的程式不工作？{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023636",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 7
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "為什麼我的程式不工作？{code}",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023639",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 8
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我除錯：{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023642",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 9
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我寫搜尋元素的代碼",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023646",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 10
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我寫生成斐波那契數列的代碼",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023651",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 11
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "如何用Python實現反轉字串？",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023655",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 12
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "寫一個Python程式來排序陣列",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023659",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 13
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "Go中如何排序陣列？",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023663",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 14
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "這段代碼有什麼問題？{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023666",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 15
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "修復這個錯誤：{code}",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023669",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 16
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "這段代碼有什麼問題？{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023672",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 17
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "修復這個錯誤：{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023676",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 18
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "Go中如何排序陣列？",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023680",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 19
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "C++中如何生成斐波那契數列？",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023685",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 20
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "修復這個錯誤：{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023688",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 21
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "JavaScript中如何反轉字串？",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023692",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 22
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "這段代碼有什麼問題？{code}",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023695",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 23
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "這段代碼有什麼問題？{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023698",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 24
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "這段代碼有什麼問題？{code}",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023701",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 25
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "C++中如何檢查回文？",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023706",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 26
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "如何用Go實現生成斐波那契數列？",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023711",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 27
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我寫實現二分搜尋的代碼",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023715",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 28
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "JavaScript中如何生成斐波那契數列？",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023719",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 29
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "JavaScript中如何生成斐波那契數列？",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023723",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 30
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我寫反轉字串的代碼",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023727",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 31
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "Java中如何檢查回文？",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023732",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 32
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "這段代碼有什麼問題？{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023735",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 33
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "為什麼我的程式不工作？{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023738",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 34
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "修復這個錯誤：{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023741",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 35
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "修復這個錯誤：{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023744",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 36
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我除錯：{code}",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023747",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 37
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "Python中如何計算階乘？",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023751",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 38
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "寫一個Python程式來搜尋元素",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023755",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 39
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "這段代碼有什麼問題？{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023758",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 40
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "寫一個C++程式來反轉字串",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023764",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 41
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "這段代碼有什麼問題？{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023767",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 42
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "修復這個錯誤：{code}",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023770",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 43
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "這段代碼有什麼問題？{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023773",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 44
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "寫一個Java程式來搜尋元素",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023777",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 45
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "為什麼我的程式不工作？{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023780",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 46
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "如何用JavaScript實現計算階乘？",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023784",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 47
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "Java中如何排序陣列？",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023789",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 48
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "這段代碼有什麼問題？{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023792",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 49
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "C++中如何生成斐波那契數列？",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023796",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 50
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "修復這個錯誤：{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023799",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 51
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "為什麼我的程式不工作？{code}",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023802",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 52
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我除錯：{code}",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023805",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 53
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "這段代碼有什麼問題？{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023808",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 54
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "如何用Python實現排序陣列？",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023812",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 55
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "寫一個Python程式來反轉字串",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023816",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 56
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "寫一個Go程式來生成斐波那契數列",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023821",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 57
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "如何用Python實現反轉字串？",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023826",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 58
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "這段代碼有什麼問題？{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023828",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 59
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我寫排序陣列的代碼",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023833",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 60
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我寫實現二分搜尋的代碼",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023837",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 61
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "JavaScript中如何計算階乘？",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023841",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 62
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "這段代碼有什麼問題？{code}",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023844",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 63
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "這段代碼有什麼問題？{code}",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023847",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 64
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我寫排序陣列的代碼",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023852",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 65
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "這段代碼有什麼問題？{code}",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023854",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 66
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "Python中如何反轉字串？",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023858",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 67
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "如何用Python實現生成斐波那契數列？",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023863",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 68
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "為什麼我的程式不工作？{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023866",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 69
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "寫一個Python程式來排序陣列",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023870",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 70
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "修復這個錯誤：{code}",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023873",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 71
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "這段代碼有什麼問題？{code}",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023876",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 72
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "這段代碼有什麼問題？{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023879",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 73
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "這段代碼有什麼問題？{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023883",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 74
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "Python中如何搜尋元素？",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023887",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 75
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "修復這個錯誤：{code}",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023890",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 76
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我除錯：{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023893",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 77
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我寫檢查回文的代碼",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023897",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 78
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "寫一個C++程式來生成斐波那契數列",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023901",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 79
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "寫一個Python程式來計算階乘",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023905",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 80
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我寫計算階乘的代碼",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023909",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 81
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "寫一個C++程式來反轉字串",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023913",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 82
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "如何用Go實現排序陣列？",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023917",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 83
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "如何用Python實現生成斐波那契數列？",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023921",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 84
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "如何用JavaScript實現搜尋元素？",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023924",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 85
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "為什麼我的程式不工作？{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023928",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 86
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "修復這個錯誤：{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023931",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 87
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "為什麼我的程式不工作？{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023934",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 88
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "寫一個Python程式來檢查回文",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023938",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 89
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "修復這個錯誤：{code}",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023941",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 90
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "為什麼我的程式不工作？{code}",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023944",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 91
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我寫生成斐波那契數列的代碼",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023949",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 92
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "修復這個錯誤：{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023952",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 93
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我除錯：{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023955",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 94
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我寫生成斐波那契數列的代碼",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023959",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 95
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "如何用Java實現計算階乘？",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023963",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 96
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "為什麼我的程式不工作？{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023966",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 97
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "這段代碼有什麼問題？{code}",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023969",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 98
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我除錯：{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023972",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 99
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "寫一個Java程式來排序陣列",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023976",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 100
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我除錯：{code}",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023979",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 101
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我除錯：{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023982",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 102
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "如何用Go實現計算階乘？",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023986",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 103
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "這段代碼有什麼問題？{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023989",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 104
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我寫生成斐波那契數列的代碼",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023995",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 105
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "Java中如何排序陣列？",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.023999",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 106
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我除錯：{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024002",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 107
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我除錯：{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024005",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 108
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "寫一個Python程式來搜尋元素",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024009",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 109
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我除錯：{code}",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024012",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 110
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "寫一個Python程式來檢查回文",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024016",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 111
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "如何用Python實現搜尋元素？",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024020",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 112
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "修復這個錯誤：{code}",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024023",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 113
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我除錯：{code}",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024026",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 114
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "C++中如何搜尋元素？",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024030",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 115
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "為什麼我的程式不工作？{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024033",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 116
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "這段代碼有什麼問題？{code}",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024036",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 117
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我除錯：{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024039",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 118
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "寫一個Python程式來反轉字串",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024043",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 119
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "這段代碼有什麼問題？{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024046",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 120
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "修復這個錯誤：{code}",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024050",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 121
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "如何用C++實現實現二分搜尋？",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024054",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 122
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "寫一個Go程式來計算階乘",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024058",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 123
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "修復這個錯誤：{code}",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024061",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 124
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "如何用Java實現實現二分搜尋？",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024065",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 125
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "寫一個C++程式來實現二分搜尋",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024069",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 126
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "修復這個錯誤：{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024072",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 127
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "如何用C++實現計算階乘？",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024076",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 128
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "修復這個錯誤：{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024080",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 129
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我除錯：{code}",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024083",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 130
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "寫一個Python程式來檢查回文",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024087",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 131
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我寫搜尋元素的代碼",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024091",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 132
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "JavaScript中如何搜尋元素？",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024095",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 133
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "為什麼我的程式不工作？{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024098",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 134
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "如何用Python實現實現二分搜尋？",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024102",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 135
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "修復這個錯誤：{code}",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024105",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 136
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我寫實現二分搜尋的代碼",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024109",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 137
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "修復這個錯誤：{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024112",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 138
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我除錯：{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024116",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 139
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我除錯：{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024119",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 140
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "C++中如何計算階乘？",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024123",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 141
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "修復這個錯誤：{code}",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024126",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 142
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "Go中如何排序陣列？",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024130",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 143
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "為什麼我的程式不工作？{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024133",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 144
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "寫一個C++程式來生成斐波那契數列",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024137",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 145
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "為什麼我的程式不工作？{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024140",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 146
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "修復這個錯誤：{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024143",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 147
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "修復這個錯誤：{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024146",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 148
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "如何用C++實現反轉字串？",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024150",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 149
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "修復這個錯誤：{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024153",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 150
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "為什麼我的程式不工作？{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024156",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 151
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "這段代碼有什麼問題？{code}",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024159",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 152
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "這段代碼有什麼問題？{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024163",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 153
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "C++中如何排序陣列？",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024167",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 154
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "這段代碼有什麼問題？{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024170",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 155
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "為什麼我的程式不工作？{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024345",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 156
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我除錯：{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024350",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 157
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "這段代碼有什麼問題？{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024354",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 158
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "這段代碼有什麼問題？{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024358",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 159
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "如何用C++實現計算階乘？",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024363",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 160
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "這段代碼有什麼問題？{code}",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024366",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 161
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "為什麼我的程式不工作？{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024369",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 162
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "修復這個錯誤：{code}",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024373",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 163
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "寫一個Go程式來反轉字串",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024377",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 164
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我除錯：{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024381",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 165
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "修復這個錯誤：{code}",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024384",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 166
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我寫反轉字串的代碼",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024389",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 167
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "Go中如何生成斐波那契數列？",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024393",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 168
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我寫實現二分搜尋的代碼",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024400",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 169
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "修復這個錯誤：{code}",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024403",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 170
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "C++中如何排序陣列？",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024408",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 171
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我除錯：{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024411",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 172
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "Go中如何檢查回文？",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024415",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 173
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我除錯：{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024418",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 174
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我除錯：{code}",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024421",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 175
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "修復這個錯誤：{code}",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024424",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 176
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我寫排序陣列的代碼",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024428",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 177
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我寫計算階乘的代碼",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024432",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 178
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "這段代碼有什麼問題？{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024435",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 179
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我寫排序陣列的代碼",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024439",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 180
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "這段代碼有什麼問題？{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024442",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 181
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "為什麼我的程式不工作？{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024445",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 182
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我除錯：{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024448",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 183
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我除錯：{code}",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024451",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 184
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "如何用Go實現搜尋元素？",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024456",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 185
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我除錯：{code}",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024459",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 186
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我除錯：{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024462",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 187
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我除錯：{code}",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024466",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 188
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "這段代碼有什麼問題？{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024469",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 189
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "寫一個Go程式來實現二分搜尋",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024473",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 190
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "這段代碼有什麼問題？{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024476",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 191
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "如何用Java實現搜尋元素？",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024480",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 192
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我除錯：{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024483",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 193
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "Go中如何搜尋元素？",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024487",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 194
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "為什麼我的程式不工作？{code}",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024490",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 195
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "Go中如何反轉字串？",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024494",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 196
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "寫一個Python程式來反轉字串",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024498",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 197
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "寫一個C++程式來實現二分搜尋",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024502",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 198
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我寫實現二分搜尋的代碼",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024506",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 199
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "修復這個錯誤：{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024509",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 200
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我除錯：{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024513",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 201
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "Java中如何檢查回文？",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024517",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 202
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "寫一個C++程式來排序陣列",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024521",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 203
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "C++中如何實現二分搜尋？",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024525",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 204
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "為什麼我的程式不工作？{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024528",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 205
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "為什麼我的程式不工作？{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024531",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 206
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "修復這個錯誤：{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024534",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 207
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "寫一個Go程式來排序陣列",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024538",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 208
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "Java中如何排序陣列？",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024543",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 209
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "為什麼我的程式不工作？{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024545",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 210
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "如何用Python實現反轉字串？",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024550",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 211
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "修復這個錯誤：{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024554",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 212
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "如何用Python實現實現二分搜尋？",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024558",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 213
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "JavaScript中如何計算階乘？",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024562",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 214
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "如何用Go實現生成斐波那契數列？",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024566",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 215
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "這段代碼有什麼問題？{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024570",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 216
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "如何用Go實現實現二分搜尋？",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024574",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 217
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我除錯：{code}",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024577",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 218
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "寫一個C++程式來搜尋元素",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024581",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 219
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "寫一個C++程式來反轉字串",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024585",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 220
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "這段代碼有什麼問題？{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024588",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 221
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "寫一個Go程式來檢查回文",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024592",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 222
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我除錯：{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024595",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 223
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "如何用C++實現排序陣列？",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024599",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 224
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我除錯：{code}",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024603",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 225
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "修復這個錯誤：{code}",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024606",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 226
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "這段代碼有什麼問題？{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024609",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 227
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我除錯：{code}",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024612",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 228
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我除錯：{code}",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024615",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 229
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "Java中如何實現二分搜尋？",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024619",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 230
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "修復這個錯誤：{code}",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024622",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 231
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "C++中如何檢查回文？",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024626",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 232
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我除錯：{code}",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024630",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 233
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "修復這個錯誤：{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024633",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 234
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "這段代碼有什麼問題？{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024636",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 235
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "C++中如何反轉字串？",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024640",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 236
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "寫一個Java程式來搜尋元素",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024644",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 237
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "如何用JavaScript實現反轉字串？",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024648",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 238
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "寫一個Go程式來排序陣列",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024651",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 239
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我寫搜尋元素的代碼",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024655",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 240
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "修復這個錯誤：{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024658",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 241
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "寫一個Python程式來實現二分搜尋",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024662",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 242
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我除錯：{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024665",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 243
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "Python中如何排序陣列？",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024669",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 244
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "修復這個錯誤：{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024672",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 245
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "如何用Go實現實現二分搜尋？",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024676",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 246
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "修復這個錯誤：{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024679",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 247
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我除錯：{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024683",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 248
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我除錯：{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024686",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 249
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我除錯：{code}",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024689",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 250
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "這段代碼有什麼問題？{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024692",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 251
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我除錯：{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024695",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 252
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我寫生成斐波那契數列的代碼",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024699",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 253
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我寫搜尋元素的代碼",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024703",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 254
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "Java中如何排序陣列？",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024706",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 255
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "為什麼我的程式不工作？{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024709",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 256
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "為什麼我的程式不工作？{code}",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024713",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 257
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "寫一個C++程式來計算階乘",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024718",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 258
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "為什麼我的程式不工作？{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024721",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 259
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我除錯：{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024724",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 260
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "為什麼我的程式不工作？{code}",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024727",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 261
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我除錯：{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024730",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 262
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "如何用C++實現實現二分搜尋？",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024734",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 263
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "如何用Go實現排序陣列？",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024739",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 264
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我除錯：{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024742",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 265
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "Python中如何計算階乘？",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024746",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 266
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我寫排序陣列的代碼",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024750",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 267
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "修復這個錯誤：{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024753",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 268
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "JavaScript中如何排序陣列？",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024758",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 269
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "寫一個Java程式來生成斐波那契數列",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024762",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 270
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "JavaScript中如何實現二分搜尋？",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024766",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 271
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "修復這個錯誤：{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024769",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 272
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我除錯：{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024773",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 273
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "為什麼我的程式不工作？{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024776",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 274
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "Go中如何反轉字串？",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024781",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 275
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "這段代碼有什麼問題？{code}",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024784",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 276
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我除錯：{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024787",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 277
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "這段代碼有什麼問題？{code}",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024790",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 278
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我寫計算階乘的代碼",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024793",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 279
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "為什麼我的程式不工作？{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024798",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 280
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "修復這個錯誤：{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024800",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 281
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我寫排序陣列的代碼",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024805",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 282
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "這段代碼有什麼問題？{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024808",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 283
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "這段代碼有什麼問題？{code}",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024811",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 284
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我寫反轉字串的代碼",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024815",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 285
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "Python中如何檢查回文？",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024819",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 286
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "為什麼我的程式不工作？{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024822",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 287
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "為什麼我的程式不工作？{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024825",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 288
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "為什麼我的程式不工作？{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024829",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 289
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "為什麼我的程式不工作？{code}",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024831",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 290
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "寫一個JavaScript程式來排序陣列",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024835",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 291
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "修復這個錯誤：{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024838",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 292
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "修復這個錯誤：{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024841",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 293
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我寫檢查回文的代碼",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024845",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 294
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "修復這個錯誤：{code}",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024848",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 295
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "如何用Go實現實現二分搜尋？",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024853",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 296
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "這段代碼有什麼問題？{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024856",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 297
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "Python中如何反轉字串？",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024860",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 298
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我寫反轉字串的代碼",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024864",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 299
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "寫一個C++程式來生成斐波那契數列",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024868",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 300
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "為什麼我的程式不工作？{code}",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024871",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 301
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "為什麼我的程式不工作？{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024875",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 302
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "如何用Python實現排序陣列？",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024879",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 303
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我除錯：{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024882",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 304
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "為什麼我的程式不工作？{code}",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024885",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 305
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "如何用Python實現檢查回文？",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024889",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 306
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "這段代碼有什麼問題？{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024892",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 307
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我寫排序陣列的代碼",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024896",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 308
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我寫實現二分搜尋的代碼",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024900",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 309
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "這段代碼有什麼問題？{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024903",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 310
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "如何用Python實現生成斐波那契數列？",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024907",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 311
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我除錯：{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024910",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 312
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我除錯：{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024914",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 313
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "如何用C++實現計算階乘？",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024919",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 314
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "寫一個JavaScript程式來反轉字串",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024923",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 315
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "如何用JavaScript實現實現二分搜尋？",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024926",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 316
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我除錯：{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024929",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 317
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "寫一個C++程式來計算階乘",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024934",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 318
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "為什麼我的程式不工作？{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024937",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 319
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "為什麼我的程式不工作？{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024940",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 320
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "這段代碼有什麼問題？{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024943",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 321
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "這段代碼有什麼問題？{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024946",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 322
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我寫實現二分搜尋的代碼",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024950",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 323
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "Java中如何生成斐波那契數列？",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024954",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 324
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我寫生成斐波那契數列的代碼",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024958",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 325
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "寫一個Java程式來排序陣列",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024961",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 326
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "如何用JavaScript實現檢查回文？",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024966",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 327
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "JavaScript中如何實現二分搜尋？",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024971",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 328
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "寫一個Go程式來生成斐波那契數列",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024975",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 329
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "如何用Go實現反轉字串？",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024980",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 330
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "寫一個C++程式來反轉字串",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024984",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 331
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我寫排序陣列的代碼",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024988",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 332
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "如何用JavaScript實現生成斐波那契數列？",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024992",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 333
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "這段代碼有什麼問題？{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024995",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 334
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "為什麼我的程式不工作？{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.024998",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 335
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我寫檢查回文的代碼",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025003",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 336
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我寫反轉字串的代碼",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025006",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 337
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "修復這個錯誤：{code}",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025009",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 338
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "Java中如何排序陣列？",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025013",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 339
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "寫一個Python程式來生成斐波那契數列",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025017",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 340
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我除錯：{code}",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025020",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 341
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我除錯：{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025023",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 342
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我寫反轉字串的代碼",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025028",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 343
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "如何用Python實現搜尋元素？",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025032",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 344
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "為什麼我的程式不工作？{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025035",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 345
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "Python中如何反轉字串？",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025039",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 346
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "修復這個錯誤：{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025042",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 347
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "如何用Java實現實現二分搜尋？",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025047",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 348
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "為什麼我的程式不工作？{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025050",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 349
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "為什麼我的程式不工作？{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025053",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 350
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我寫實現二分搜尋的代碼",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025057",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 351
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "如何用C++實現檢查回文？",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025061",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 352
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "C++中如何實現二分搜尋？",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025065",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 353
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "寫一個JavaScript程式來計算階乘",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025069",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 354
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我寫排序陣列的代碼",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025073",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 355
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "寫一個JavaScript程式來生成斐波那契數列",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025077",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 356
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "這段代碼有什麼問題？{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025080",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 357
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "Java中如何生成斐波那契數列？",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025084",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 358
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我寫檢查回文的代碼",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025089",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 359
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我除錯：{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025092",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 360
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "Go中如何反轉字串？",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025096",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 361
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "如何用Go實現搜尋元素？",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025101",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 362
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "修復這個錯誤：{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025103",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 363
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "修復這個錯誤：{code}",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025106",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 364
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我除錯：{code}",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025109",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 365
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "這段代碼有什麼問題？{code}",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025112",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 366
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "Python中如何檢查回文？",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025116",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 367
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "JavaScript中如何排序陣列？",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025120",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 368
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "這段代碼有什麼問題？{code}",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025123",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 369
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "寫一個C++程式來搜尋元素",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025127",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 370
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "如何用C++實現計算階乘？",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025131",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 371
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "如何用C++實現計算階乘？",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025135",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 372
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "為什麼我的程式不工作？{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025138",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 373
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "Java中如何實現二分搜尋？",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025143",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 374
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "這段代碼有什麼問題？{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025146",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 375
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "JavaScript中如何搜尋元素？",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025150",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 376
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我除錯：{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025153",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 377
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "這段代碼有什麼問題？{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025156",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 378
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我除錯：{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025160",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 379
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "如何用C++實現生成斐波那契數列？",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025164",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 380
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "Java中如何實現二分搜尋？",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025168",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 381
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "這段代碼有什麼問題？{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025171",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 382
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "這段代碼有什麼問題？{code}",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025174",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 383
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "這段代碼有什麼問題？{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025177",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 384
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "為什麼我的程式不工作？{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025180",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 385
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我寫實現二分搜尋的代碼",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025184",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 386
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "寫一個C++程式來檢查回文",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025188",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 387
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我除錯：{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025191",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 388
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我除錯：{code}",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025194",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 389
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我除錯：{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025197",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 390
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我寫搜尋元素的代碼",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025202",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 391
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "這段代碼有什麼問題？{code}",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025205",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 392
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "修復這個錯誤：{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025208",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 393
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "為什麼我的程式不工作？{code}",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025211",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 394
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "為什麼我的程式不工作？{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025214",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 395
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我寫檢查回文的代碼",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025220",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 396
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "為什麼我的程式不工作？{code}",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025223",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 397
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我寫搜尋元素的代碼",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025227",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 398
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "這段代碼有什麼問題？{code}",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025230",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 399
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "這段代碼有什麼問題？{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025233",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 400
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "修復這個錯誤：{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025237",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 401
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "為什麼我的程式不工作？{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025240",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 402
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我除錯：{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025243",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 403
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "如何用Go實現生成斐波那契數列？",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025247",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 404
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "寫一個Go程式來排序陣列",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025251",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 405
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "如何用Go實現檢查回文？",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025255",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 406
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "修復這個錯誤：{code}",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025259",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 407
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "如何用C++實現生成斐波那契數列？",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025263",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 408
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我除錯：{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025265",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 409
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "為什麼我的程式不工作？{code}",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025268",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 410
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "為什麼我的程式不工作？{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025271",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 411
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "修復這個錯誤：{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025274",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 412
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "如何用C++實現排序陣列？",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025278",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 413
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "為什麼我的程式不工作？{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025281",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 414
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我除錯：{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025284",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 415
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我寫計算階乘的代碼",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025288",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 416
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我除錯：{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025291",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 417
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "如何用JavaScript實現搜尋元素？",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025295",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 418
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "為什麼我的程式不工作？{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025298",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 419
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我除錯：{code}",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025301",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 420
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我寫搜尋元素的代碼",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025305",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 421
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "Python中如何實現二分搜尋？",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025309",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 422
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "寫一個Python程式來檢查回文",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025314",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 423
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "為什麼我的程式不工作？{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025317",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 424
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我寫實現二分搜尋的代碼",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025321",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 425
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "Go中如何排序陣列？",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025325",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 426
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我除錯：{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025328",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 427
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "C++中如何生成斐波那契數列？",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025332",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 428
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "修復這個錯誤：{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025335",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 429
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "寫一個Go程式來排序陣列",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025339",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 430
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "Python中如何搜尋元素？",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025343",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 431
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "寫一個Java程式來排序陣列",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025347",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 432
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "修復這個錯誤：{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025350",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 433
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我寫計算階乘的代碼",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025354",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 434
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "為什麼我的程式不工作？{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025357",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 435
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "這段代碼有什麼問題？{code}",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025360",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 436
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "這段代碼有什麼問題？{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025363",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 437
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "C++中如何檢查回文？",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025367",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 438
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "C++中如何排序陣列？",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025372",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 439
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "如何用Go實現生成斐波那契數列？",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025376",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 440
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "修復這個錯誤：{code}",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025379",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 441
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "為什麼我的程式不工作？{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025382",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 442
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "Python中如何排序陣列？",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025387",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 443
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "這段代碼有什麼問題？{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025390",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 444
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "這段代碼有什麼問題？{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025393",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 445
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我除錯：{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025396",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 446
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我除錯：{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025399",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 447
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "如何用JavaScript實現生成斐波那契數列？",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025403",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 448
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "如何用Python實現反轉字串？",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025407",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 449
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "為什麼我的程式不工作？{code}",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025410",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 450
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "這段代碼有什麼問題？{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025413",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 451
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "為什麼我的程式不工作？{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025416",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 452
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我寫排序陣列的代碼",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025419",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 453
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "這段代碼有什麼問題？{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025422",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 454
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "如何用Python實現檢查回文？",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025430",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 455
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "為什麼我的程式不工作？{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025433",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 456
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我除錯：{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025437",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 457
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "如何用Java實現生成斐波那契數列？",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025441",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 458
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "這段代碼有什麼問題？{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025444",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 459
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我除錯：{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025448",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 460
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "這段代碼有什麼問題？{code}",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025451",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 461
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我寫計算階乘的代碼",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025454",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 462
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "修復這個錯誤：{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025457",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 463
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "如何用Go實現生成斐波那契數列？",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025464",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 464
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "如何用C++實現排序陣列？",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025468",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 465
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我除錯：{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025471",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 466
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "JavaScript中如何檢查回文？",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025475",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 467
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "修復這個錯誤：{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025478",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 468
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我寫實現二分搜尋的代碼",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025482",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 469
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "如何用Java實現生成斐波那契數列？",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025489",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 470
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "寫一個Python程式來反轉字串",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025493",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 471
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "為什麼我的程式不工作？{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025496",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 472
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "為什麼我的程式不工作？{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025500",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 473
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "為什麼我的程式不工作？{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025503",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 474
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "寫一個Go程式來生成斐波那契數列",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025508",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 475
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "C++中如何實現二分搜尋？",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025512",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 476
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "這段代碼有什麼問題？{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025515",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 477
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我除錯：{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025518",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 478
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "C++中如何計算階乘？",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025522",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 479
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我寫排序陣列的代碼",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025526",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 480
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "JavaScript中如何生成斐波那契數列？",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025530",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 481
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我除錯：{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025533",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 482
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "這段代碼有什麼問題？{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025537",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 483
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "修復這個錯誤：{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025539",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 484
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我寫搜尋元素的代碼",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025545",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 485
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "修復這個錯誤：{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025548",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 486
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "JavaScript中如何反轉字串？",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025552",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 487
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "如何用C++實現檢查回文？",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025556",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 488
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "如何用JavaScript實現生成斐波那契數列？",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025559",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 489
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "寫一個C++程式來生成斐波那契數列",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025563",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 490
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "修復這個錯誤：{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025566",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 491
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "修復這個錯誤：{code}",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025568",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 492
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "如何用Go實現生成斐波那契數列？",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025572",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 493
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "Python中如何搜尋元素？",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025575",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 494
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "為什麼我的程式不工作？{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025578",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 495
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "C++中如何排序陣列？",
+    "ai_response": "這是一個常見的編程問題。讓我為您提供解決方案...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025582",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 496
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "C++中如何檢查回文？",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025585",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 497
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "為什麼我的程式不工作？{code}",
+    "ai_response": "我來幫您分析這段代碼並提供改進建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025588",
+    "metadata": {
+      "template_id": "debugging",
+      "generation_round": 498
+    }
+  },
+  {
+    "domain": "programming",
+    "user_input": "幫我寫實現二分搜尋的代碼",
+    "ai_response": "這個問題可以用以下方法解決...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:43:56.025591",
+    "metadata": {
+      "template_id": "coding_problem",
+      "generation_round": 499
+    }
+  }
+]

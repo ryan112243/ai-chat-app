@@ -1,0 +1,43 @@
+{
+  "timestamp": 550302.1668514,
+  "performance": {
+    "overall_accuracy": 1.0,
+    "domain_accuracies": {
+      "math": 1.0
+    },
+    "total_evaluated": 50
+  },
+  "optimization_config": {
+    "math": {
+      "temperature": 0.5814106324201298,
+      "max_tokens": 25,
+      "top_p": 0.8,
+      "frequency_penalty": 0.0
+    },
+    "programming": {
+      "temperature": 0.7532324912948862,
+      "max_tokens": 24,
+      "top_p": 0.9,
+      "frequency_penalty": 0.0
+    },
+    "writing": {
+      "temperature": 0.4863380952380953,
+      "max_tokens": 24,
+      "top_p": 0.8,
+      "frequency_penalty": 0.1
+    },
+    "dialogue": {
+      "temperature": 0.5307995416348357,
+      "max_tokens": 24,
+      "top_p": 0.8,
+      "frequency_penalty": 0.0
+    },
+    "mun": {
+      "temperature": 0.5544787878787879,
+      "max_tokens": 20,
+      "top_p": 0.8,
+      "frequency_penalty": 0.0
+    }
+  },
+  "training_data_count": 5400
+}

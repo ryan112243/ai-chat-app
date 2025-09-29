@@ -24,46 +24,42 @@ def index():
     return render_template('chat.html')
 
 @app.route('/api/chat', methods=['POST'])
-def chat_api():
-    """處理聊天請求"""
+def chat():
     try:
         data = request.get_json()
-        message = data.get('message', '').strip()
+        user_message = data.get('message', '')
         domain = data.get('domain', 'dialogue')
         
-        if not message:
-            return jsonify({
-                'success': False,
-                'error': '請輸入您的問題'
-            })
+        if not user_message.strip():
+            return jsonify({'success': False, 'error': '消息不能為空'})
+        
+        # 記錄用戶消息
+        app.logger.info(f"用戶消息 [{domain}]: {user_message}")
         
         # 使用異步方式生成AI回應
         loop = asyncio.new_event_loop()
         asyncio.set_event_loop(loop)
+        
         try:
-            ai_response = loop.run_until_complete(generate_ai_response(message, domain))
+            ai_response = loop.run_until_complete(generate_ai_response(user_message, domain))
         finally:
             loop.close()
         
-        # 記錄對話
-        conversation_entry = {
-            'timestamp': datetime.now().isoformat(),
-            'domain': domain,
-            'user_message': message,
-            'ai_response': ai_response
-        }
+        # 記錄AI回應
+        app.logger.info(f"AI回應: {ai_response[:100]}...")
         
         return jsonify({
             'success': True,
             'response': ai_response,
             'domain': domain,
-            'timestamp': conversation_entry['timestamp']
+            'timestamp': datetime.now().isoformat()
         })
         
     except Exception as e:
+        app.logger.error(f"聊天處理錯誤: {str(e)}")
         return jsonify({
-            'success': False,
-            'error': f'處理請求時發生錯誤：{str(e)}'
+            'success': False, 
+            'error': f'處理請求時發生錯誤: {str(e)}'
         })
 
 async def generate_ai_response(message, domain):
