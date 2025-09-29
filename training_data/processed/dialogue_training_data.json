@@ -1,0 +1,3602 @@
+[
+  {
+    "domain": "dialogue",
+    "user_input": "你覺得人工智慧的未來怎麼樣？",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.086822",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 0
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "談談你對科技發展的想法",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.086852",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 1
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "談談你對環保議題的想法",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.086860",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 2
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "關於人工智慧的未來，你有什麼看法？",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.086867",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 3
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "我們來聊聊職業規劃吧",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.086874",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 4
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "談談你對人工智慧的未來的想法",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.086881",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 5
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "關於科技發展，你有什麼看法？",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.086888",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 6
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "談談你對生活哲學的想法",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.086895",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 7
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "關於人工智慧的未來，你有什麼看法？",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.086903",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 8
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "關於文化差異，你有什麼看法？",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.086911",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 9
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "你覺得環保議題怎麼樣？",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.086918",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 10
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "你覺得科技發展怎麼樣？",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.086931",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 11
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "關於職業規劃，你有什麼看法？",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.086938",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 12
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "我們來聊聊人工智慧的未來吧",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.086945",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 13
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "你覺得科技發展怎麼樣？",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.086953",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 14
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "我們來聊聊教育改革吧",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.086962",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 15
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "我們來聊聊健康生活吧",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.086970",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 16
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "我們來聊聊教育改革吧",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.086978",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 17
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "我們來聊聊文化差異吧",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.086985",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 18
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "你覺得環保議題怎麼樣？",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.086993",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 19
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "我們來聊聊生活哲學吧",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087001",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 20
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "你覺得健康生活怎麼樣？",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087008",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 21
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "你覺得文化差異怎麼樣？",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087015",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 22
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "關於教育改革，你有什麼看法？",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087021",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 23
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "談談你對健康生活的想法",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087028",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 24
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "關於人工智慧的未來，你有什麼看法？",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087039",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 25
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "談談你對健康生活的想法",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087046",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 26
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "你覺得職業規劃怎麼樣？",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087054",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 27
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "談談你對文化差異的想法",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087061",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 28
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "談談你對人工智慧的未來的想法",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087068",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 29
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "關於生活哲學，你有什麼看法？",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087076",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 30
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "我們來聊聊教育改革吧",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087085",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 31
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "關於文化差異，你有什麼看法？",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087092",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 32
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "你覺得教育改革怎麼樣？",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087100",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 33
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "我們來聊聊健康生活吧",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087108",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 34
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "關於文化差異，你有什麼看法？",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087114",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 35
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "你覺得生活哲學怎麼樣？",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087123",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 36
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "我們來聊聊健康生活吧",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087131",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 37
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "你覺得教育改革怎麼樣？",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087138",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 38
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "我們來聊聊職業規劃吧",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087145",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 39
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "關於環保議題，你有什麼看法？",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087153",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 40
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "我們來聊聊文化差異吧",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087162",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 41
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "談談你對職業規劃的想法",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087170",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 42
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "談談你對環保議題的想法",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087176",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 43
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "你覺得健康生活怎麼樣？",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087185",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 44
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "談談你對職業規劃的想法",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087193",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 45
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "關於人工智慧的未來，你有什麼看法？",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087201",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 46
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "關於文化差異，你有什麼看法？",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087209",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 47
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "我們來聊聊環保議題吧",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087217",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 48
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "談談你對文化差異的想法",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087224",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 49
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "我們來聊聊人工智慧的未來吧",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087231",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 50
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "我們來聊聊人工智慧的未來吧",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087238",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 51
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "談談你對健康生活的想法",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087245",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 52
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "關於人工智慧的未來，你有什麼看法？",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087252",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 53
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "談談你對生活哲學的想法",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087260",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 54
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "你覺得文化差異怎麼樣？",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087267",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 55
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "你覺得文化差異怎麼樣？",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087274",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 56
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "談談你對人工智慧的未來的想法",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087280",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 57
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "你覺得人工智慧的未來怎麼樣？",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087287",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 58
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "關於環保議題，你有什麼看法？",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087295",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 59
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "你覺得教育改革怎麼樣？",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087302",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 60
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "我們來聊聊健康生活吧",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087310",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 61
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "談談你對職業規劃的想法",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087317",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 62
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "你覺得職業規劃怎麼樣？",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087326",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 63
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "你覺得科技發展怎麼樣？",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087333",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 64
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "我們來聊聊教育改革吧",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087342",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 65
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "談談你對環保議題的想法",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087351",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 66
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "談談你對環保議題的想法",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087357",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 67
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "我們來聊聊健康生活吧",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087364",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 68
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "我們來聊聊生活哲學吧",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087371",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 69
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "我們來聊聊職業規劃吧",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087380",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 70
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "談談你對環保議題的想法",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087387",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 71
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "我們來聊聊生活哲學吧",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087395",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 72
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "我們來聊聊文化差異吧",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087401",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 73
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "你覺得健康生活怎麼樣？",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087409",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 74
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "談談你對教育改革的想法",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087415",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 75
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "談談你對文化差異的想法",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087422",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 76
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "你覺得生活哲學怎麼樣？",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087431",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 77
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "你覺得教育改革怎麼樣？",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087438",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 78
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "我們來聊聊生活哲學吧",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087448",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 79
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "談談你對生活哲學的想法",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087455",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 80
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "談談你對環保議題的想法",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087462",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 81
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "我們來聊聊科技發展吧",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087469",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 82
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "我們來聊聊健康生活吧",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087478",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 83
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "關於生活哲學，你有什麼看法？",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087486",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 84
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "我們來聊聊生活哲學吧",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087493",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 85
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "你覺得科技發展怎麼樣？",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087500",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 86
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "談談你對職業規劃的想法",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087506",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 87
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "你覺得教育改革怎麼樣？",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087513",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 88
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "談談你對健康生活的想法",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087520",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 89
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "我們來聊聊科技發展吧",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087527",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 90
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "關於文化差異，你有什麼看法？",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087534",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 91
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "關於健康生活，你有什麼看法？",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087541",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 92
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "談談你對生活哲學的想法",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087549",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 93
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "談談你對文化差異的想法",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087555",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 94
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "我們來聊聊職業規劃吧",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087564",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 95
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "談談你對職業規劃的想法",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087571",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 96
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "關於文化差異，你有什麼看法？",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087578",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 97
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "你覺得科技發展怎麼樣？",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087588",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 98
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "關於教育改革，你有什麼看法？",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087595",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 99
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "我們來聊聊健康生活吧",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087602",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 100
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "你覺得科技發展怎麼樣？",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087610",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 101
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "我們來聊聊健康生活吧",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087617",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 102
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "你覺得生活哲學怎麼樣？",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087624",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 103
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "我們來聊聊文化差異吧",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087632",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 104
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "關於健康生活，你有什麼看法？",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087639",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 105
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "關於教育改革，你有什麼看法？",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087646",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 106
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "你覺得健康生活怎麼樣？",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087653",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 107
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "我們來聊聊健康生活吧",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087660",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 108
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "關於環保議題，你有什麼看法？",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087668",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 109
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "我們來聊聊生活哲學吧",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087675",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 110
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "你覺得生活哲學怎麼樣？",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087687",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 111
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "關於人工智慧的未來，你有什麼看法？",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087695",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 112
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "你覺得科技發展怎麼樣？",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087702",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 113
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "談談你對人工智慧的未來的想法",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087710",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 114
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "你覺得生活哲學怎麼樣？",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087717",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 115
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "你覺得文化差異怎麼樣？",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087724",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 116
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "我們來聊聊科技發展吧",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087732",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 117
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "我們來聊聊人工智慧的未來吧",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087741",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 118
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "我們來聊聊生活哲學吧",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087749",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 119
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "你覺得環保議題怎麼樣？",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087756",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 120
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "關於科技發展，你有什麼看法？",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087764",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 121
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "談談你對文化差異的想法",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087771",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 122
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "我們來聊聊環保議題吧",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087780",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 123
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "我們來聊聊職業規劃吧",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087787",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 124
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "你覺得文化差異怎麼樣？",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087794",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 125
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "關於生活哲學，你有什麼看法？",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087801",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 126
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "你覺得健康生活怎麼樣？",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087811",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 127
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "關於環保議題，你有什麼看法？",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087820",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 128
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "談談你對科技發展的想法",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087829",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 129
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "關於人工智慧的未來，你有什麼看法？",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087837",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 130
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "關於健康生活，你有什麼看法？",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087843",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 131
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "我們來聊聊人工智慧的未來吧",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087854",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 132
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "關於科技發展，你有什麼看法？",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087863",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 133
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "關於科技發展，你有什麼看法？",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087870",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 134
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "關於文化差異，你有什麼看法？",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087878",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 135
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "關於生活哲學，你有什麼看法？",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087889",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 136
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "關於生活哲學，你有什麼看法？",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087896",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 137
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "你覺得環保議題怎麼樣？",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087902",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 138
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "談談你對環保議題的想法",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087909",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 139
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "我們來聊聊文化差異吧",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087916",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 140
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "談談你對健康生活的想法",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087924",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 141
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "關於健康生活，你有什麼看法？",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087933",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 142
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "談談你對教育改革的想法",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087940",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 143
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "我們來聊聊教育改革吧",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087947",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 144
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "談談你對生活哲學的想法",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087954",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 145
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "關於文化差異，你有什麼看法？",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087961",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 146
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "關於生活哲學，你有什麼看法？",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087970",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 147
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "關於教育改革，你有什麼看法？",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087978",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 148
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "關於文化差異，你有什麼看法？",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087985",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 149
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "我們來聊聊職業規劃吧",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.087994",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 150
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "你覺得健康生活怎麼樣？",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088000",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 151
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "談談你對生活哲學的想法",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088007",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 152
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "我們來聊聊健康生活吧",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088016",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 153
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "你覺得環保議題怎麼樣？",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088023",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 154
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "你覺得教育改革怎麼樣？",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088031",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 155
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "你覺得人工智慧的未來怎麼樣？",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088038",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 156
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "你覺得文化差異怎麼樣？",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088046",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 157
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "我們來聊聊生活哲學吧",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088056",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 158
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "你覺得文化差異怎麼樣？",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088064",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 159
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "你覺得教育改革怎麼樣？",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088074",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 160
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "你覺得生活哲學怎麼樣？",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088113",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 161
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "我們來聊聊人工智慧的未來吧",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088130",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 162
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "我們來聊聊健康生活吧",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088145",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 163
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "關於人工智慧的未來，你有什麼看法？",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088154",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 164
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "你覺得環保議題怎麼樣？",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088160",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 165
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "你覺得職業規劃怎麼樣？",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088167",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 166
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "你覺得人工智慧的未來怎麼樣？",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088173",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 167
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "我們來聊聊人工智慧的未來吧",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088180",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 168
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "我們來聊聊職業規劃吧",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088186",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 169
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "你覺得健康生活怎麼樣？",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088193",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 170
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "關於文化差異，你有什麼看法？",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088204",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 171
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "談談你對科技發展的想法",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088214",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 172
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "你覺得生活哲學怎麼樣？",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088223",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 173
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "你覺得環保議題怎麼樣？",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088233",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 174
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "你覺得生活哲學怎麼樣？",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088240",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 175
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "關於文化差異，你有什麼看法？",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088247",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 176
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "你覺得科技發展怎麼樣？",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088254",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 177
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "你覺得環保議題怎麼樣？",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088261",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 178
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "你覺得教育改革怎麼樣？",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088269",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 179
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "關於健康生活，你有什麼看法？",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088276",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 180
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "關於環保議題，你有什麼看法？",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088284",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 181
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "你覺得職業規劃怎麼樣？",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088291",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 182
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "我們來聊聊科技發展吧",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088299",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 183
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "關於生活哲學，你有什麼看法？",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088306",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 184
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "我們來聊聊教育改革吧",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088313",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 185
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "你覺得職業規劃怎麼樣？",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088321",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 186
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "關於文化差異，你有什麼看法？",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088329",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 187
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "談談你對職業規劃的想法",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088337",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 188
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "你覺得生活哲學怎麼樣？",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088345",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 189
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "談談你對生活哲學的想法",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088355",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 190
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "談談你對健康生活的想法",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088363",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 191
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "關於文化差異，你有什麼看法？",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088371",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 192
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "關於環保議題，你有什麼看法？",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088378",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 193
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "關於文化差異，你有什麼看法？",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088386",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 194
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "關於教育改革，你有什麼看法？",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088393",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 195
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "你覺得科技發展怎麼樣？",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088401",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 196
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "關於文化差異，你有什麼看法？",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088408",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 197
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "我們來聊聊教育改革吧",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088416",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 198
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "我們來聊聊健康生活吧",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088423",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 199
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "我們來聊聊人工智慧的未來吧",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088433",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 200
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "談談你對文化差異的想法",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088445",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 201
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "談談你對教育改革的想法",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088452",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 202
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "你覺得文化差異怎麼樣？",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088459",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 203
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "你覺得生活哲學怎麼樣？",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088466",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 204
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "關於環保議題，你有什麼看法？",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088474",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 205
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "談談你對教育改革的想法",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088483",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 206
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "關於生活哲學，你有什麼看法？",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088490",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 207
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "我們來聊聊環保議題吧",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088496",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 208
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "你覺得科技發展怎麼樣？",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088503",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 209
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "我們來聊聊環保議題吧",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088516",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 210
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "你覺得教育改革怎麼樣？",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088523",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 211
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "我們來聊聊人工智慧的未來吧",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088530",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 212
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "我們來聊聊生活哲學吧",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088537",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 213
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "關於職業規劃，你有什麼看法？",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088545",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 214
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "關於人工智慧的未來，你有什麼看法？",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088552",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 215
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "談談你對健康生活的想法",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088559",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 216
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "我們來聊聊職業規劃吧",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088567",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 217
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "你覺得人工智慧的未來怎麼樣？",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088576",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 218
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "我們來聊聊生活哲學吧",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088584",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 219
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "你覺得文化差異怎麼樣？",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088590",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 220
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "你覺得人工智慧的未來怎麼樣？",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088598",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 221
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "我們來聊聊教育改革吧",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088607",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 222
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "你覺得教育改革怎麼樣？",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088616",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 223
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "你覺得健康生活怎麼樣？",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088626",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 224
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "我們來聊聊職業規劃吧",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088634",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 225
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "關於環保議題，你有什麼看法？",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088641",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 226
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "談談你對生活哲學的想法",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088647",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 227
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "關於人工智慧的未來，你有什麼看法？",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088653",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 228
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "關於環保議題，你有什麼看法？",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088660",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 229
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "你覺得科技發展怎麼樣？",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088666",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 230
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "談談你對健康生活的想法",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088673",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 231
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "我們來聊聊健康生活吧",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088681",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 232
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "關於科技發展，你有什麼看法？",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088690",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 233
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "關於人工智慧的未來，你有什麼看法？",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088698",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 234
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "我們來聊聊生活哲學吧",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088706",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 235
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "關於生活哲學，你有什麼看法？",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088714",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 236
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "我們來聊聊教育改革吧",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088721",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 237
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "關於健康生活，你有什麼看法？",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088730",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 238
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "你覺得環保議題怎麼樣？",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088737",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 239
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "我們來聊聊科技發展吧",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088744",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 240
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "你覺得人工智慧的未來怎麼樣？",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088750",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 241
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "我們來聊聊健康生活吧",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088757",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 242
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "你覺得科技發展怎麼樣？",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088764",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 243
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "關於健康生活，你有什麼看法？",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088770",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 244
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "關於教育改革，你有什麼看法？",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088776",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 245
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "我們來聊聊職業規劃吧",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088783",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 246
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "談談你對環保議題的想法",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088790",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 247
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "關於教育改革，你有什麼看法？",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088799",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 248
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "關於教育改革，你有什麼看法？",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088805",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 249
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "你覺得教育改革怎麼樣？",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088812",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 250
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "你覺得職業規劃怎麼樣？",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088820",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 251
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "你覺得環保議題怎麼樣？",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088830",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 252
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "關於文化差異，你有什麼看法？",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088837",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 253
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "你覺得人工智慧的未來怎麼樣？",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088847",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 254
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "我們來聊聊環保議題吧",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.088855",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 255
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "關於生活哲學，你有什麼看法？",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.089035",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 256
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "關於生活哲學，你有什麼看法？",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.089045",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 257
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "你覺得職業規劃怎麼樣？",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.089052",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 258
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "關於環保議題，你有什麼看法？",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.089058",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 259
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "談談你對環保議題的想法",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.089067",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 260
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "關於健康生活，你有什麼看法？",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.089073",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 261
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "談談你對科技發展的想法",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.089080",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 262
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "我們來聊聊職業規劃吧",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.089086",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 263
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "你覺得教育改革怎麼樣？",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.089092",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 264
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "談談你對文化差異的想法",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.089102",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 265
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "談談你對生活哲學的想法",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.089112",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 266
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "我們來聊聊人工智慧的未來吧",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.089123",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 267
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "你覺得環保議題怎麼樣？",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.089129",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 268
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "你覺得環保議題怎麼樣？",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.089142",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 269
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "我們來聊聊文化差異吧",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.089148",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 270
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "關於職業規劃，你有什麼看法？",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.089154",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 271
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "你覺得文化差異怎麼樣？",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.089161",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 272
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "我們來聊聊職業規劃吧",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.089168",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 273
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "關於職業規劃，你有什麼看法？",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.089176",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 274
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "我們來聊聊環保議題吧",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.089183",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 275
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "你覺得文化差異怎麼樣？",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.089190",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 276
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "你覺得人工智慧的未來怎麼樣？",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.089197",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 277
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "談談你對職業規劃的想法",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.089206",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 278
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "我們來聊聊健康生活吧",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.089212",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 279
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "我們來聊聊職業規劃吧",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.089218",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 280
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "關於健康生活，你有什麼看法？",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.089225",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 281
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "關於人工智慧的未來，你有什麼看法？",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.089231",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 282
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "你覺得環保議題怎麼樣？",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.089238",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 283
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "談談你對文化差異的想法",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.089245",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 284
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "你覺得職業規劃怎麼樣？",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.089255",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 285
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "關於科技發展，你有什麼看法？",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.089262",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 286
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "談談你對生活哲學的想法",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.089271",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 287
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "談談你對教育改革的想法",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.089278",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 288
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "關於健康生活，你有什麼看法？",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.089284",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 289
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "談談你對健康生活的想法",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.089292",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 290
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "你覺得科技發展怎麼樣？",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.089299",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 291
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "我們來聊聊生活哲學吧",
+    "ai_response": "關於這個問題，我認為我們可以從多個層面來討論...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.089305",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 292
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "關於職業規劃，你有什麼看法？",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.089311",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 293
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "關於人工智慧的未來，你有什麼看法？",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.089318",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 294
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "談談你對人工智慧的未來的想法",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.089324",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 295
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "談談你對科技發展的想法",
+    "ai_response": "這是一個很有趣的話題。從我的角度來看...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.089330",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 296
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "談談你對人工智慧的未來的想法",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.089337",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 297
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "你覺得職業規劃怎麼樣？",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.089345",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 298
+    }
+  },
+  {
+    "domain": "dialogue",
+    "user_input": "我們來聊聊生活哲學吧",
+    "ai_response": "這確實是值得深入思考的議題...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.089352",
+    "metadata": {
+      "template_id": "general_chat",
+      "generation_round": 299
+    }
+  }
+]

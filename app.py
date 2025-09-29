@@ -8,7 +8,9 @@ import torch
 import os
 import json
 import glob
+import asyncio
 from datetime import datetime
+from ai_service import ai_service, AIProvider
 
 app = Flask(__name__)
 app.secret_key = 'ai_chat_secret_key'
@@ -26,55 +28,59 @@ def chat_api():
     """處理聊天請求"""
     try:
         data = request.get_json()
-        message = data.get('message', '')
+        message = data.get('message', '').strip()
         domain = data.get('domain', 'dialogue')
         
-        if not message.strip():
+        if not message:
             return jsonify({
                 'success': False,
-                'error': '請輸入有效的消息'
+                'error': '請輸入您的問題'
             })
         
-        # 生成AI回應
-        response = generate_ai_response(message, domain)
+        # 使用異步方式生成AI回應
+        loop = asyncio.new_event_loop()
+        asyncio.set_event_loop(loop)
+        try:
+            ai_response = loop.run_until_complete(generate_ai_response(message, domain))
+        finally:
+            loop.close()
+        
+        # 記錄對話
+        conversation_entry = {
+            'timestamp': datetime.now().isoformat(),
+            'domain': domain,
+            'user_message': message,
+            'ai_response': ai_response
+        }
         
         return jsonify({
             'success': True,
-            'response': response,
+            'response': ai_response,
             'domain': domain,
-            'timestamp': datetime.now().isoformat()
+            'timestamp': conversation_entry['timestamp']
         })
         
     except Exception as e:
         return jsonify({
             'success': False,
-            'error': f'處理請求時發生錯誤: {str(e)}'
+            'error': f'處理請求時發生錯誤：{str(e)}'
         })
 
-def generate_ai_response(message, domain):
-    """根據域生成AI回應"""
+async def generate_ai_response(message, domain):
+    """使用先進AI模型生成回應"""
     try:
-        # 載入最新的多域模型
-        model_path = get_latest_model_path()
-        if not model_path:
-            return generate_default_response(message, domain)
+        # 使用AI服務管理器生成回應
+        response = await ai_service.generate_response(message, domain)
         
-        # 根據域分派到相應的處理函數
-        if domain == 'math':
-            return generate_math_response(message)
-        elif domain == 'programming':
-            return generate_programming_response(message)
-        elif domain == 'dialogue':
-            return generate_dialogue_response(message)
-        elif domain == 'writing':
-            return generate_writing_response(message)
-        elif domain == 'mun':
-            return generate_mun_response(message)
-        else:
-            return generate_default_response(message, domain)
-            
+        # 記錄回應品質資訊
+        print(f"AI回應生成 - 提供商: {response.provider}, 模型: {response.model}, "
+              f"信心度: {response.confidence}, 回應時間: {response.response_time:.2f}秒")
+        
+        return response.content
+        
     except Exception as e:
-        return f"抱歉，處理您的請求時遇到了問題：{str(e)}"
+        print(f"AI回應生成錯誤: {str(e)}")
+        return generate_enhanced_fallback_response(message, domain)
 
 def get_latest_model_path():
     """獲取最新的模型路徑"""
@@ -86,29 +92,73 @@ def get_latest_model_path():
     except:
         return None
 
-def generate_math_response(message):
-    """生成數學相關回應"""
-    return f"數學助手：我來幫您解決數學問題。關於「{message}」，讓我為您分析和計算..."
+def generate_enhanced_fallback_response(message, domain):
+    """生成增強的備用回應"""
+    enhanced_responses = {
+        'math': f"""數學專家助手：關於您的問題「{message}」
 
-def generate_programming_response(message):
-    """生成程式設計相關回應"""
-    return f"程式設計助手：我來幫您解決編程問題。關於「{message}」，讓我為您提供代碼解決方案..."
+我來為您提供數學方面的幫助：
+• 如果是計算問題，我建議您檢查數字和運算符號
+• 如果是概念問題，可以嘗試從基礎定義開始理解
+• 對於複雜問題，建議分步驟解決
+• 您也可以使用數學工具如計算器、圖形軟體等輔助
 
-def generate_dialogue_response(message):
-    """生成對話回應"""
-    return f"智能助手：我理解您的問題「{message}」。讓我為您提供詳細的回答和建議..."
+需要更具體的幫助嗎？請提供更多詳細資訊。""",
 
-def generate_writing_response(message):
-    """生成寫作相關回應"""
-    return f"寫作助手：我來幫您進行創意寫作。關於「{message}」，讓我為您創作和潤色..."
+        'programming': f"""程式設計專家：關於您的編程問題「{message}」
 
-def generate_mun_response(message):
-    """生成模擬聯合國相關回應"""
-    return f"MUN助手：作為外交顧問，關於「{message}」，我將為您提供專業的外交分析和建議..."
+讓我為您提供編程建議：
+• 檢查語法和邏輯錯誤
+• 確認變數名稱和資料類型
+• 查看相關文檔和範例代碼
+• 使用除錯工具逐步檢查
+• 考慮代碼的可讀性和效能
 
-def generate_default_response(message, domain):
-    """生成默認回應"""
-    return f"AI助手（{domain}）：感謝您的提問「{message}」。我正在為您準備回應..."
+如需更詳細的協助，請分享您的代碼片段。""",
+
+        'writing': f"""寫作指導專家：關於您的寫作需求「{message}」
+
+我來協助您提升寫作品質：
+• 明確寫作目的和目標讀者
+• 建立清晰的文章結構和大綱
+• 使用生動具體的例子和描述
+• 注意語法、標點和用詞準確性
+• 多次修改和潤色您的作品
+
+需要針對特定寫作類型的建議嗎？""",
+
+        'dialogue': f"""智慧對話夥伴：關於「{message}」這個話題
+
+這確實是個值得深入探討的問題：
+• 讓我們從不同角度來分析
+• 考慮相關的背景和脈絡
+• 探索可能的解決方案或觀點
+• 分享相關的經驗和見解
+• 提出進一步思考的問題
+
+您希望從哪個方面開始討論呢？""",
+
+        'mun': f"""模擬聯合國專家：關於國際議題「{message}」
+
+作為您的外交顧問，我建議：
+• 研究相關的國際法和條約
+• 分析各主要國家的立場和利益
+• 考慮歷史先例和案例
+• 評估可能的談判策略
+• 準備多種解決方案選項
+
+需要針對特定國家立場或程序的建議嗎？"""
+    }
+    
+    return enhanced_responses.get(domain, f"""AI智慧助手：感謝您的問題「{message}」
+
+雖然目前遇到一些技術限制，但我仍想為您提供幫助：
+• 這是一個很有意思的問題
+• 建議您可以從多個角度思考
+• 歡迎提供更多背景資訊
+• 我會持續學習以提供更好的服務
+
+有什麼其他我可以協助的嗎？""")
 
 if __name__ == '__main__':
     print("AI聊天助手啟動中...")

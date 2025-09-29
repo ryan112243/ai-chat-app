@@ -1,0 +1,3602 @@
+[
+  {
+    "domain": "math",
+    "user_input": "計算 3x + 5 = 14",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.063860",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 0
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "求解 lim(x→0) sin(x)/x",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.063916",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 1
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "如何理解統計學？",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.063928",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 2
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "求解 2 + 3 × 4",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.063936",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 3
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "什麼是矩陣？",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.063944",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 4
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "如何理解統計學？",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.063951",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 5
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "機率論的定義是什麼？",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.063957",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 6
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "什麼是機率論？",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.063965",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 7
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "計算 ∫x²dx",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.063972",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 8
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "幾何學的定義是什麼？",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.063985",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 9
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "求解 √16 + 5²",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.063994",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 10
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "如何理解矩陣？",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064001",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 11
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "求解 2 + 3 × 4",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064008",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 12
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "求解 sin(30°)",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064015",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 13
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "解釋一下幾何學",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064022",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 14
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "∫x²dx 等於多少？",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064029",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 15
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "如何理解幾何學？",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064036",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 16
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "√16 + 5² 等於多少？",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064043",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 17
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "求解 2 + 3 × 4",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064050",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 18
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "∫x²dx 等於多少？",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064056",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 19
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "計算 3x + 5 = 14",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064063",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 20
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "什麼是幾何學？",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064070",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 21
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "線性代數的定義是什麼？",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064078",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 22
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "解釋一下微積分",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064085",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 23
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "什麼是三角函數？",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064092",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 24
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "sin(30°) 等於多少？",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064100",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 25
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "複數的定義是什麼？",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064108",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 26
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "lim(x→0) sin(x)/x 等於多少？",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064115",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 27
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "機率論的定義是什麼？",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064122",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 28
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "矩陣的定義是什麼？",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064129",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 29
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "計算 sin(30°)",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064136",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 30
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "什麼是三角函數？",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064142",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 31
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "幫我算一下 lim(x→0) sin(x)/x",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064149",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 32
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "計算 ∫x²dx",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064156",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 33
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "如何理解微積分？",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064163",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 34
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "幫我算一下 2 + 3 × 4",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064172",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 35
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "如何理解機率論？",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064179",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 36
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "如何理解統計學？",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064186",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 37
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "2 + 3 × 4 等於多少？",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064194",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 38
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "機率論的定義是什麼？",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064200",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 39
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "求解 3x + 5 = 14",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064208",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 40
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "求解 log₂(8)",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064215",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 41
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "求解 2 + 3 × 4",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064226",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 42
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "∫x²dx 等於多少？",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064233",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 43
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "如何理解機率論？",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064240",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 44
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "解釋一下微積分",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064247",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 45
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "計算 sin(30°)",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064253",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 46
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "什麼是三角函數？",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064260",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 47
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "計算 sin(30°)",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064266",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 48
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "解釋一下複數",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064273",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 49
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "統計學的定義是什麼？",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064280",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 50
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "什麼是統計學？",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064286",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 51
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "求解 3x + 5 = 14",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064293",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 52
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "求解 lim(x→0) sin(x)/x",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064300",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 53
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "解釋一下矩陣",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064306",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 54
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "求解 √16 + 5²",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064312",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 55
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "2 + 3 × 4 等於多少？",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064321",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 56
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "log₂(8) 等於多少？",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064327",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 57
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "log₂(8) 等於多少？",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064335",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 58
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "幫我算一下 √16 + 5²",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064342",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 59
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "√16 + 5² 等於多少？",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064348",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 60
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "機率論的定義是什麼？",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064354",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 61
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "求解 log₂(8)",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064361",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 62
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "什麼是機率論？",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064368",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 63
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "解釋一下機率論",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064374",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 64
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "如何理解矩陣？",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064382",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 65
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "幫我算一下 log₂(8)",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064388",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 66
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "log₂(8) 等於多少？",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064394",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 67
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "解釋一下機率論",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064401",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 68
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "機率論的定義是什麼？",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064408",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 69
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "如何理解統計學？",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064415",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 70
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "∫x²dx 等於多少？",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064421",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 71
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "求解 log₂(8)",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064429",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 72
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "解釋一下微積分",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064436",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 73
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "求解 √16 + 5²",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064444",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 74
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "幫我算一下 ∫x²dx",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064451",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 75
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "計算 √16 + 5²",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064458",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 76
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "三角函數的定義是什麼？",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064466",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 77
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "幫我算一下 log₂(8)",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064473",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 78
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "如何理解統計學？",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064480",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 79
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "什麼是機率論？",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064487",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 80
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "什麼是微積分？",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064494",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 81
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "什麼是複數？",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064501",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 82
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "幫我算一下 log₂(8)",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064507",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 83
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "什麼是微積分？",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064514",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 84
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "求解 2 + 3 × 4",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064520",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 85
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "2 + 3 × 4 等於多少？",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064527",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 86
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "計算 log₂(8)",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064534",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 87
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "什麼是機率論？",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064541",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 88
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "解釋一下三角函數",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064549",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 89
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "如何理解統計學？",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064557",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 90
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "解釋一下三角函數",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064564",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 91
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "幫我算一下 3x + 5 = 14",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064571",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 92
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "計算 3x + 5 = 14",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064581",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 93
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "如何理解三角函數？",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064594",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 94
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "3x + 5 = 14 等於多少？",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064606",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 95
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "如何理解統計學？",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064619",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 96
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "2 + 3 × 4 等於多少？",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064628",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 97
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "如何理解統計學？",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064635",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 98
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "sin(30°) 等於多少？",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064642",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 99
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "求解 ∫x²dx",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064648",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 100
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "解釋一下幾何學",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064655",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 101
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "3x + 5 = 14 等於多少？",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064662",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 102
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "計算 sin(30°)",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064669",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 103
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "幫我算一下 lim(x→0) sin(x)/x",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064677",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 104
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "計算 √16 + 5²",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064687",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 105
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "解釋一下三角函數",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064698",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 106
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "計算 log₂(8)",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064708",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 107
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "什麼是幾何學？",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064715",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 108
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "什麼是機率論？",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064723",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 109
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "求解 ∫x²dx",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064730",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 110
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "線性代數的定義是什麼？",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064737",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 111
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "√16 + 5² 等於多少？",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064743",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 112
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "如何理解三角函數？",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064750",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 113
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "幫我算一下 2 + 3 × 4",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064757",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 114
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "如何理解矩陣？",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064764",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 115
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "複數的定義是什麼？",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064771",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 116
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "2 + 3 × 4 等於多少？",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064778",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 117
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "計算 lim(x→0) sin(x)/x",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064785",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 118
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "3x + 5 = 14 等於多少？",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064799",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 119
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "什麼是複數？",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064806",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 120
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "求解 3x + 5 = 14",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064819",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 121
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "如何理解複數？",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064826",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 122
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "解釋一下機率論",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064833",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 123
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "解釋一下三角函數",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064839",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 124
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "log₂(8) 等於多少？",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064847",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 125
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "3x + 5 = 14 等於多少？",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064853",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 126
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "三角函數的定義是什麼？",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064860",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 127
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "如何理解幾何學？",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064867",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 128
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "機率論的定義是什麼？",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064875",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 129
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "log₂(8) 等於多少？",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064882",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 130
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "解釋一下線性代數",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064889",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 131
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "3x + 5 = 14 等於多少？",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064901",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 132
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "什麼是幾何學？",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064907",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 133
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "解釋一下機率論",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064914",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 134
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "√16 + 5² 等於多少？",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064920",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 135
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "什麼是線性代數？",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064927",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 136
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "計算 log₂(8)",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064936",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 137
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "幫我算一下 sin(30°)",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064942",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 138
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "求解 2 + 3 × 4",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064949",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 139
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "線性代數的定義是什麼？",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064956",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 140
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "求解 √16 + 5²",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064963",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 141
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "解釋一下微積分",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064969",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 142
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "幫我算一下 3x + 5 = 14",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064977",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 143
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "3x + 5 = 14 等於多少？",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064984",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 144
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "求解 lim(x→0) sin(x)/x",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.064993",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 145
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "什麼是幾何學？",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.065000",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 146
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "求解 lim(x→0) sin(x)/x",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.065007",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 147
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "幫我算一下 ∫x²dx",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.065014",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 148
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "如何理解微積分？",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.065022",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 149
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "線性代數的定義是什麼？",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.065029",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 150
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "幫我算一下 √16 + 5²",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.065036",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 151
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "解釋一下統計學",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.065043",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 152
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "√16 + 5² 等於多少？",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.065052",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 153
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "幫我算一下 2 + 3 × 4",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.065059",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 154
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "如何理解機率論？",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.065441",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 155
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "機率論的定義是什麼？",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.065454",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 156
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "如何理解微積分？",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.065461",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 157
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "什麼是幾何學？",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.065469",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 158
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "求解 sin(30°)",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.065475",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 159
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "幫我算一下 √16 + 5²",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.065482",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 160
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "lim(x→0) sin(x)/x 等於多少？",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.065489",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 161
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "∫x²dx 等於多少？",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.065496",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 162
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "微積分的定義是什麼？",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.065503",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 163
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "如何理解微積分？",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.065509",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 164
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "幾何學的定義是什麼？",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.065519",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 165
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "什麼是統計學？",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.065525",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 166
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "解釋一下機率論",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.065532",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 167
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "sin(30°) 等於多少？",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.065539",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 168
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "統計學的定義是什麼？",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.065548",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 169
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "解釋一下幾何學",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.065555",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 170
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "3x + 5 = 14 等於多少？",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.065562",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 171
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "什麼是矩陣？",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.065568",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 172
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "如何理解複數？",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.065577",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 173
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "計算 3x + 5 = 14",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.065584",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 174
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "∫x²dx 等於多少？",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.065591",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 175
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "求解 log₂(8)",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.065597",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 176
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "線性代數的定義是什麼？",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.065603",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 177
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "如何理解微積分？",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.065609",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 178
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "求解 ∫x²dx",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.065615",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 179
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "幫我算一下 sin(30°)",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.065622",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 180
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "求解 log₂(8)",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.065629",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 181
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "複數的定義是什麼？",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.065637",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 182
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "什麼是幾何學？",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.065644",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 183
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "幫我算一下 log₂(8)",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.065654",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 184
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "什麼是幾何學？",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.065662",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 185
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "log₂(8) 等於多少？",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.065668",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 186
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "解釋一下複數",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.065674",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 187
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "什麼是幾何學？",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.065681",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 188
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "幫我算一下 lim(x→0) sin(x)/x",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.065688",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 189
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "求解 2 + 3 × 4",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.065694",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 190
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "三角函數的定義是什麼？",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.065707",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 191
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "如何理解統計學？",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.065714",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 192
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "什麼是統計學？",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.065733",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 193
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "2 + 3 × 4 等於多少？",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.065740",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 194
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "如何理解機率論？",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.065746",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 195
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "計算 √16 + 5²",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.065754",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 196
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "幫我算一下 log₂(8)",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.065762",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 197
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "解釋一下線性代數",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.065768",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 198
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "如何理解機率論？",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.065774",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 199
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "幫我算一下 2 + 3 × 4",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.065780",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 200
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "求解 2 + 3 × 4",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.065790",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 201
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "什麼是幾何學？",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.065796",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 202
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "sin(30°) 等於多少？",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.065803",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 203
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "解釋一下機率論",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.065809",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 204
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "線性代數的定義是什麼？",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.065815",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 205
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "如何理解機率論？",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.065822",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 206
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "計算 √16 + 5²",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.065828",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 207
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "如何理解線性代數？",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.065834",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 208
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "求解 3x + 5 = 14",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.065840",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 209
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "什麼是幾何學？",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.065847",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 210
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "什麼是三角函數？",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.065853",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 211
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "幫我算一下 2 + 3 × 4",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.065858",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 212
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "計算 2 + 3 × 4",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.065864",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 213
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "什麼是複數？",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.065869",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 214
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "計算 √16 + 5²",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.065874",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 215
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "sin(30°) 等於多少？",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.065881",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 216
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "求解 √16 + 5²",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.065888",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 217
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "什麼是複數？",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.065894",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 218
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "計算 2 + 3 × 4",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.065902",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 219
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "線性代數的定義是什麼？",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.065909",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 220
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "矩陣的定義是什麼？",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.065918",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 221
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "幾何學的定義是什麼？",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.065925",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 222
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "如何理解矩陣？",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.065931",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 223
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "什麼是微積分？",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.065938",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 224
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "微積分的定義是什麼？",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.065943",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 225
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "解釋一下微積分",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.065949",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 226
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "線性代數的定義是什麼？",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.065955",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 227
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "如何理解矩陣？",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.065961",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 228
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "計算 3x + 5 = 14",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.065966",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 229
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "什麼是線性代數？",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.065972",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 230
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "幫我算一下 3x + 5 = 14",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.065978",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 231
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "解釋一下機率論",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.065985",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 232
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "線性代數的定義是什麼？",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.066009",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 233
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "三角函數的定義是什麼？",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.066019",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 234
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "解釋一下微積分",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.066024",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 235
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "求解 3x + 5 = 14",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.066085",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 236
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "解釋一下微積分",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.066102",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 237
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "計算 sin(30°)",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.066110",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 238
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "線性代數的定義是什麼？",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.066117",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 239
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "計算 lim(x→0) sin(x)/x",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.066124",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 240
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "如何理解機率論？",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.066133",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 241
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "計算 sin(30°)",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.066139",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 242
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "什麼是矩陣？",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.066146",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 243
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "如何理解矩陣？",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.066153",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 244
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "三角函數的定義是什麼？",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.066159",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 245
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "統計學的定義是什麼？",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.066166",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 246
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "計算 sin(30°)",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.066173",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 247
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "求解 2 + 3 × 4",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.066185",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 248
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "sin(30°) 等於多少？",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.066193",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 249
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "幫我算一下 ∫x²dx",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.066201",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 250
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "計算 ∫x²dx",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.066208",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 251
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "求解 2 + 3 × 4",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.066217",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 252
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "如何理解三角函數？",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.066230",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 253
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "什麼是統計學？",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.066241",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 254
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "幫我算一下 3x + 5 = 14",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.066249",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 255
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "機率論的定義是什麼？",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.066259",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 256
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "幾何學的定義是什麼？",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.066267",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 257
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "微積分的定義是什麼？",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.066274",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 258
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "計算 sin(30°)",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.066280",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 259
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "解釋一下複數",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.066287",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 260
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "如何理解統計學？",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.066294",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 261
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "解釋一下幾何學",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.066300",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 262
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "求解 log₂(8)",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.066312",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 263
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "計算 lim(x→0) sin(x)/x",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.066320",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 264
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "幫我算一下 2 + 3 × 4",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.066326",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 265
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "幫我算一下 2 + 3 × 4",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.066332",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 266
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "3x + 5 = 14 等於多少？",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.066340",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 267
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "解釋一下複數",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.066347",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 268
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "計算 sin(30°)",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.066356",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 269
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "求解 sin(30°)",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.066362",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 270
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "計算 sin(30°)",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.066368",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 271
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "什麼是複數？",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.066378",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 272
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "幫我算一下 lim(x→0) sin(x)/x",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.066384",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 273
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "計算 3x + 5 = 14",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.066392",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 274
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "∫x²dx 等於多少？",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.066399",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 275
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "幾何學的定義是什麼？",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.066406",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 276
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "複數的定義是什麼？",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.066412",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 277
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "∫x²dx 等於多少？",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.066420",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 278
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "什麼是三角函數？",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.066427",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 279
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "什麼是三角函數？",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.066437",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 280
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "求解 log₂(8)",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.066443",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 281
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "什麼是機率論？",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.066449",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 282
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "如何理解線性代數？",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.066456",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 283
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "什麼是統計學？",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.066463",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 284
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "解釋一下三角函數",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.066469",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 285
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "如何理解機率論？",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.066475",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 286
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "微積分的定義是什麼？",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.066482",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 287
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "求解 2 + 3 × 4",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.066489",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 288
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "幫我算一下 lim(x→0) sin(x)/x",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.066498",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 289
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "解釋一下微積分",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.066505",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 290
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "什麼是幾何學？",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.066514",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 291
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "sin(30°) 等於多少？",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.066521",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 292
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "什麼是三角函數？",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.066530",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 293
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "什麼是統計學？",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.066536",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 294
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "計算 3x + 5 = 14",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.066543",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 295
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "求解 sin(30°)",
+    "ai_response": "讓我來幫您解決這個數學問題。首先，我們需要...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.066550",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 296
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "解釋一下微積分",
+    "ai_response": "這是一個很好的數學問題。根據相關定理...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.066556",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 297
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "計算 log₂(8)",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.066563",
+    "metadata": {
+      "template_id": "calculation",
+      "generation_round": 298
+    }
+  },
+  {
+    "domain": "math",
+    "user_input": "解釋一下複數",
+    "ai_response": "我來為您詳細計算這個問題的步驟...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.066570",
+    "metadata": {
+      "template_id": "concept",
+      "generation_round": 299
+    }
+  }
+]

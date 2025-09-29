@@ -1,0 +1,3602 @@
+[
+  {
+    "domain": "writing",
+    "user_input": "幫我寫一篇關於友情的日記",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081127",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 0
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "幫我寫一篇關於冒險的短文",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081158",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 1
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "創作一個歷史故事，主題是科技",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081168",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 2
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "幫我寫一篇關於冒險的短文",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081178",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 3
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "給我一個夢想的短文範例",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081195",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 4
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "給我一個友情的散文範例",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081207",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 5
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "給我一個友情的散文範例",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081216",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 6
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "創作一個歷史故事，主題是科技",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081226",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 7
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "寫一段日記，描述成長",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081234",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 8
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "寫一段短文，描述友情",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081242",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 9
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "創作一個懸疑故事，主題是冒險",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081249",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 10
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "創作一個奇幻故事，主題是成長",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081260",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 11
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "給我一個自然的故事範例",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081269",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 12
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "幫我寫一篇關於夢想的散文",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081279",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 13
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "給我一個友情的故事範例",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081286",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 14
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "創作一個懸疑故事，主題是科技",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081295",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 15
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "幫我寫一篇關於友情的短文",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081305",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 16
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "給我一個冒險的故事範例",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081315",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 17
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "寫一段詩歌，描述友情",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081324",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 18
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "給我一個自然的散文範例",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081334",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 19
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "給我一個成長的詩歌範例",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081343",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 20
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "創作一個科幻故事，主題是科技",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081353",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 21
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "創作一個奇幻故事，主題是夢想",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081362",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 22
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "幫我寫一篇關於夢想的故事",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081371",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 23
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "給我一個科技的日記範例",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081380",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 24
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "給我一個友情的詩歌範例",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081390",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 25
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "幫我寫一篇關於友情的短文",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081400",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 26
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "創作一個愛情故事，主題是冒險",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081408",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 27
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "給我一個冒險的短文範例",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081416",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 28
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "幫我寫一篇關於成長的短文",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081425",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 29
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "給我一個友情的詩歌範例",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081436",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 30
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "幫我寫一篇關於自然的故事",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081445",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 31
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "幫我寫一篇關於科技的詩歌",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081453",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 32
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "幫我寫一篇關於科技的詩歌",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081462",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 33
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "寫一段日記，描述科技",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081471",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 34
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "創作一個科幻故事，主題是友情",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081479",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 35
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "幫我寫一篇關於夢想的詩歌",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081487",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 36
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "創作一個奇幻故事，主題是夢想",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081496",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 37
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "寫一段故事，描述成長",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081507",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 38
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "創作一個科幻故事，主題是科技",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081516",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 39
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "幫我寫一篇關於自然的日記",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081526",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 40
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "創作一個懸疑故事，主題是科技",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081535",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 41
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "寫一段故事，描述夢想",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081545",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 42
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "給我一個自然的散文範例",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081554",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 43
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "幫我寫一篇關於自然的故事",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081564",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 44
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "寫一段詩歌，描述成長",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081573",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 45
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "幫我寫一篇關於夢想的散文",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081584",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 46
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "寫一段散文，描述成長",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081592",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 47
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "創作一個奇幻故事，主題是友情",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081601",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 48
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "寫一段散文，描述夢想",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081609",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 49
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "創作一個愛情故事，主題是友情",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081618",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 50
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "創作一個奇幻故事，主題是成長",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081626",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 51
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "幫我寫一篇關於夢想的日記",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081634",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 52
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "創作一個科幻故事，主題是自然",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081644",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 53
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "幫我寫一篇關於冒險的短文",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081651",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 54
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "創作一個科幻故事，主題是自然",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081659",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 55
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "幫我寫一篇關於冒險的日記",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081668",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 56
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "創作一個懸疑故事，主題是夢想",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081677",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 57
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "幫我寫一篇關於友情的散文",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081684",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 58
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "給我一個科技的短文範例",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081692",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 59
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "寫一段散文，描述友情",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081699",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 60
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "寫一段短文，描述成長",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081709",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 61
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "給我一個成長的短文範例",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081718",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 62
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "給我一個成長的短文範例",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081726",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 63
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "寫一段故事，描述成長",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081735",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 64
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "給我一個成長的詩歌範例",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081748",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 65
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "幫我寫一篇關於自然的詩歌",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081756",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 66
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "創作一個懸疑故事，主題是友情",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081766",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 67
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "給我一個成長的短文範例",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081774",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 68
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "創作一個愛情故事，主題是科技",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081783",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 69
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "寫一段散文，描述自然",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081792",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 70
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "給我一個科技的日記範例",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081801",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 71
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "幫我寫一篇關於自然的短文",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081810",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 72
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "幫我寫一篇關於冒險的故事",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081819",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 73
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "給我一個成長的散文範例",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081829",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 74
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "寫一段散文，描述友情",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081838",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 75
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "寫一段散文，描述自然",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081847",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 76
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "幫我寫一篇關於夢想的短文",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081860",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 77
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "幫我寫一篇關於友情的詩歌",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081869",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 78
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "給我一個冒險的散文範例",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081878",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 79
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "寫一段詩歌，描述自然",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081887",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 80
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "給我一個夢想的短文範例",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081897",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 81
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "創作一個愛情故事，主題是夢想",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081906",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 82
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "寫一段散文，描述冒險",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081915",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 83
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "給我一個冒險的詩歌範例",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081924",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 84
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "幫我寫一篇關於成長的日記",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081933",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 85
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "創作一個愛情故事，主題是自然",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081942",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 86
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "給我一個冒險的短文範例",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081951",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 87
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "幫我寫一篇關於成長的短文",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081959",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 88
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "創作一個科幻故事，主題是夢想",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081967",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 89
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "創作一個奇幻故事，主題是科技",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081979",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 90
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "創作一個歷史故事，主題是科技",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081987",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 91
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "幫我寫一篇關於自然的散文",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.081996",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 92
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "創作一個懸疑故事，主題是成長",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082008",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 93
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "幫我寫一篇關於友情的故事",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082017",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 94
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "創作一個奇幻故事，主題是友情",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082025",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 95
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "給我一個成長的故事範例",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082034",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 96
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "創作一個奇幻故事，主題是成長",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082043",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 97
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "創作一個歷史故事，主題是科技",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082051",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 98
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "創作一個懸疑故事，主題是友情",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082060",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 99
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "創作一個懸疑故事，主題是科技",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082067",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 100
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "給我一個科技的短文範例",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082076",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 101
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "創作一個愛情故事，主題是科技",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082083",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 102
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "寫一段短文，描述成長",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082091",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 103
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "幫我寫一篇關於友情的故事",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082099",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 104
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "創作一個科幻故事，主題是夢想",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082106",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 105
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "幫我寫一篇關於成長的故事",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082112",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 106
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "幫我寫一篇關於夢想的詩歌",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082119",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 107
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "創作一個懸疑故事，主題是冒險",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082127",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 108
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "創作一個奇幻故事，主題是科技",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082139",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 109
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "寫一段散文，描述友情",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082148",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 110
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "給我一個成長的短文範例",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082159",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 111
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "幫我寫一篇關於科技的故事",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082168",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 112
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "幫我寫一篇關於友情的日記",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082176",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 113
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "創作一個愛情故事，主題是冒險",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082184",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 114
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "寫一段故事，描述冒險",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082193",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 115
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "幫我寫一篇關於自然的散文",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082202",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 116
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "寫一段短文，描述友情",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082210",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 117
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "寫一段散文，描述夢想",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082219",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 118
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "寫一段日記，描述成長",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082228",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 119
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "給我一個成長的日記範例",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082237",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 120
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "給我一個成長的散文範例",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082246",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 121
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "創作一個懸疑故事，主題是夢想",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082255",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 122
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "幫我寫一篇關於友情的散文",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082264",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 123
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "寫一段故事，描述成長",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082273",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 124
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "給我一個夢想的短文範例",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082284",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 125
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "寫一段故事，描述冒險",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082293",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 126
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "幫我寫一篇關於成長的短文",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082302",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 127
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "創作一個奇幻故事，主題是自然",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082311",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 128
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "寫一段散文，描述冒險",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082323",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 129
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "給我一個夢想的散文範例",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082332",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 130
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "幫我寫一篇關於夢想的散文",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082341",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 131
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "創作一個歷史故事，主題是科技",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082350",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 132
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "幫我寫一篇關於夢想的故事",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082359",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 133
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "幫我寫一篇關於夢想的故事",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082368",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 134
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "給我一個成長的故事範例",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082377",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 135
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "創作一個懸疑故事，主題是成長",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082386",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 136
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "創作一個懸疑故事，主題是科技",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082394",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 137
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "幫我寫一篇關於成長的故事",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082402",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 138
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "寫一段日記，描述友情",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082410",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 139
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "寫一段日記，描述自然",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082419",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 140
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "寫一段日記，描述冒險",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082430",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 141
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "給我一個冒險的短文範例",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082437",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 142
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "創作一個愛情故事，主題是友情",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082446",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 143
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "給我一個夢想的詩歌範例",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082454",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 144
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "給我一個友情的散文範例",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082465",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 145
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "給我一個友情的短文範例",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082475",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 146
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "寫一段詩歌，描述自然",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082484",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 147
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "寫一段故事，描述科技",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082492",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 148
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "寫一段散文，描述冒險",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082503",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 149
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "給我一個自然的日記範例",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082512",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 150
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "給我一個夢想的詩歌範例",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082521",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 151
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "創作一個懸疑故事，主題是科技",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082530",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 152
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "創作一個懸疑故事，主題是自然",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082539",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 153
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "寫一段短文，描述夢想",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082548",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 154
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "寫一段日記，描述自然",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082557",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 155
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "幫我寫一篇關於自然的散文",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082567",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 156
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "創作一個歷史故事，主題是成長",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082578",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 157
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "創作一個科幻故事，主題是科技",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082587",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 158
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "給我一個夢想的散文範例",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082596",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 159
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "幫我寫一篇關於冒險的短文",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082604",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 160
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "創作一個奇幻故事，主題是冒險",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082614",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 161
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "給我一個成長的故事範例",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082623",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 162
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "創作一個科幻故事，主題是科技",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082632",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 163
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "創作一個歷史故事，主題是科技",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082641",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 164
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "給我一個科技的日記範例",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082650",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 165
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "創作一個科幻故事，主題是友情",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082660",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 166
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "給我一個成長的故事範例",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082670",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 167
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "給我一個科技的日記範例",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082680",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 168
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "給我一個冒險的短文範例",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082689",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 169
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "給我一個友情的散文範例",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082699",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 170
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "幫我寫一篇關於夢想的短文",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082708",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 171
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "幫我寫一篇關於友情的日記",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082717",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 172
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "給我一個科技的散文範例",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082730",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 173
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "給我一個友情的短文範例",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082739",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 174
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "寫一段日記，描述友情",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082748",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 175
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "幫我寫一篇關於友情的故事",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082757",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 176
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "給我一個成長的短文範例",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082768",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 177
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "幫我寫一篇關於冒險的故事",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082777",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 178
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "給我一個夢想的日記範例",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082787",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 179
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "寫一段日記，描述夢想",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082796",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 180
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "給我一個成長的短文範例",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082805",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 181
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "給我一個友情的詩歌範例",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082814",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 182
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "寫一段短文，描述友情",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082823",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 183
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "給我一個自然的日記範例",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082832",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 184
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "給我一個成長的日記範例",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082840",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 185
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "寫一段短文，描述成長",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082849",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 186
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "幫我寫一篇關於友情的詩歌",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082858",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 187
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "創作一個懸疑故事，主題是夢想",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082868",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 188
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "寫一段散文，描述成長",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082877",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 189
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "幫我寫一篇關於科技的短文",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082886",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 190
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "幫我寫一篇關於科技的故事",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082895",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 191
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "幫我寫一篇關於科技的散文",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082904",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 192
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "幫我寫一篇關於夢想的故事",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082914",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 193
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "寫一段短文，描述夢想",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082924",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 194
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "給我一個自然的日記範例",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082933",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 195
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "寫一段故事，描述自然",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082942",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 196
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "幫我寫一篇關於自然的日記",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082951",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 197
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "創作一個歷史故事，主題是夢想",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082960",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 198
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "幫我寫一篇關於友情的詩歌",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082969",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 199
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "寫一段散文，描述成長",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082978",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 200
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "幫我寫一篇關於冒險的日記",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082988",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 201
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "給我一個自然的短文範例",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.082998",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 202
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "寫一段日記，描述科技",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083006",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 203
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "給我一個友情的散文範例",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083016",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 204
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "給我一個成長的短文範例",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083025",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 205
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "創作一個奇幻故事，主題是自然",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083034",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 206
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "給我一個夢想的散文範例",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083042",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 207
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "給我一個冒險的故事範例",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083052",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 208
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "創作一個懸疑故事，主題是自然",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083061",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 209
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "寫一段散文，描述科技",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083070",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 210
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "創作一個懸疑故事，主題是冒險",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083078",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 211
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "寫一段散文，描述自然",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083087",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 212
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "創作一個歷史故事，主題是冒險",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083096",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 213
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "給我一個友情的詩歌範例",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083106",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 214
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "幫我寫一篇關於夢想的詩歌",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083115",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 215
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "寫一段故事，描述冒險",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083124",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 216
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "寫一段短文，描述友情",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083133",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 217
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "幫我寫一篇關於成長的詩歌",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083142",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 218
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "創作一個歷史故事，主題是自然",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083151",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 219
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "寫一段散文，描述科技",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083161",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 220
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "創作一個歷史故事，主題是成長",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083171",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 221
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "創作一個懸疑故事，主題是自然",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083179",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 222
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "給我一個夢想的故事範例",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083189",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 223
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "幫我寫一篇關於自然的日記",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083198",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 224
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "創作一個歷史故事，主題是自然",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083206",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 225
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "創作一個奇幻故事，主題是成長",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083217",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 226
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "創作一個愛情故事，主題是冒險",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083225",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 227
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "寫一段日記，描述成長",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083234",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 228
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "給我一個夢想的短文範例",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083243",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 229
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "給我一個科技的短文範例",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083251",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 230
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "寫一段日記，描述冒險",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083260",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 231
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "創作一個科幻故事，主題是自然",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083270",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 232
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "給我一個成長的日記範例",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083280",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 233
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "寫一段故事，描述自然",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083289",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 234
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "寫一段短文，描述科技",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083298",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 235
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "給我一個友情的故事範例",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083308",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 236
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "給我一個自然的詩歌範例",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083315",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 237
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "寫一段故事，描述自然",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083322",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 238
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "給我一個自然的短文範例",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083330",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 239
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "給我一個冒險的詩歌範例",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083340",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 240
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "寫一段日記，描述自然",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083349",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 241
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "給我一個友情的散文範例",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083358",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 242
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "給我一個自然的散文範例",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083367",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 243
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "創作一個奇幻故事，主題是友情",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083375",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 244
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "給我一個成長的短文範例",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083384",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 245
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "幫我寫一篇關於科技的日記",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083394",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 246
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "給我一個冒險的故事範例",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083403",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 247
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "幫我寫一篇關於科技的詩歌",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083412",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 248
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "創作一個歷史故事，主題是自然",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083422",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 249
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "幫我寫一篇關於成長的散文",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083436",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 250
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "幫我寫一篇關於夢想的故事",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083446",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 251
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "創作一個科幻故事，主題是科技",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083457",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 252
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "給我一個友情的短文範例",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083467",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 253
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "幫我寫一篇關於自然的故事",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083476",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 254
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "寫一段短文，描述友情",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083485",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 255
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "給我一個科技的短文範例",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083499",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 256
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "創作一個奇幻故事，主題是冒險",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083509",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 257
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "創作一個奇幻故事，主題是夢想",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083519",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 258
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "寫一段散文，描述夢想",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083528",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 259
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "創作一個奇幻故事，主題是自然",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083537",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 260
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "寫一段日記，描述自然",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083547",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 261
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "幫我寫一篇關於成長的故事",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083556",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 262
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "幫我寫一篇關於成長的散文",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083564",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 263
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "創作一個懸疑故事，主題是科技",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083575",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 264
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "給我一個成長的詩歌範例",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083584",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 265
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "寫一段散文，描述自然",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083594",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 266
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "創作一個歷史故事，主題是友情",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083603",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 267
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "給我一個科技的短文範例",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083612",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 268
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "給我一個友情的故事範例",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083622",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 269
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "創作一個奇幻故事，主題是科技",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083630",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 270
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "幫我寫一篇關於冒險的故事",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083638",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 271
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "幫我寫一篇關於成長的日記",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083646",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 272
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "幫我寫一篇關於自然的短文",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083654",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 273
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "給我一個科技的故事範例",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083661",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 274
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "寫一段日記，描述冒險",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083669",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 275
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "給我一個冒險的詩歌範例",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083679",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 276
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "創作一個懸疑故事，主題是友情",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083687",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 277
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "創作一個科幻故事，主題是成長",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083695",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 278
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "給我一個成長的故事範例",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083703",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 279
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "給我一個友情的日記範例",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083712",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 280
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "創作一個歷史故事，主題是夢想",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083719",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 281
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "創作一個奇幻故事，主題是夢想",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083727",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 282
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "幫我寫一篇關於科技的故事",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083734",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 283
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "創作一個懸疑故事，主題是冒險",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083743",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 284
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "寫一段故事，描述夢想",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083752",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 285
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "寫一段故事，描述冒險",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083759",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 286
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "給我一個自然的短文範例",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083767",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 287
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "創作一個愛情故事，主題是自然",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083775",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 288
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "創作一個愛情故事，主題是夢想",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083784",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 289
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "幫我寫一篇關於夢想的散文",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083791",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 290
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "創作一個科幻故事，主題是科技",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083799",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 291
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "幫我寫一篇關於自然的故事",
+    "ai_response": "讓我為您提供一些寫作靈感和結構建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083808",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 292
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "幫我寫一篇關於自然的故事",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083816",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 293
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "寫一段詩歌，描述科技",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083824",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 294
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "幫我寫一篇關於自然的故事",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083833",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 295
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "給我一個自然的故事範例",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083842",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 296
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "寫一段散文，描述科技",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083858",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 297
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "寫一段故事，描述科技",
+    "ai_response": "這是一個很有創意的寫作主題。我建議...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083865",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 298
+    }
+  },
+  {
+    "domain": "writing",
+    "user_input": "創作一個愛情故事，主題是自然",
+    "ai_response": "我很樂意幫您創作。讓我們從以下角度開始...",
+    "quality_score": 0.8,
+    "source": "synthetic_generation",
+    "timestamp": "2025-09-29T11:21:05.083873",
+    "metadata": {
+      "template_id": "creative_writing",
+      "generation_round": 299
+    }
+  }
+]
